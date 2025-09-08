@@ -39,3 +39,5 @@ npm run build
 ### Linteo y arreglo de sintaxis de archivos
 
 ```
+npm run lint
+```
