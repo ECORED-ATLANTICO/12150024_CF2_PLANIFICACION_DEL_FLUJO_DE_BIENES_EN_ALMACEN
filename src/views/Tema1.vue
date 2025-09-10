@@ -107,7 +107,6 @@
       .col-12.col-lg-3.mb-lg-0.mb-3(data-aos='zoom-in-right')
         p.mb-0 Una correcta gestión del flujo de bienes requiere evaluar los equipos que se usan para el manejo de materiales y de almacenamiento, procurando tener fácil acceso al material y capacidad de movimiento desde la posición de almacenamiento hasta los muelles de carga.
       .col-12.col-lg-9.mb-lg-0.mb-3(data-aos='zoom-in-right')
-
         .tarjeta.color-secundario-10.p-4.rounded-4.mb-3
           .row.justify-content-center.align-items-center
             .col-lg-2.d-lg-block.d-none(data-aos="zoom-in-right")
@@ -127,8 +126,8 @@
           img(src='@/assets/curso/temas/tema_1/img_13.svg', class="img-fluid d-block d-lg-none mb-3" alt="En la figura 1 se ilustra el esquema de planificación de frecuencias y horarios, herramienta para lograr la precisión y optimizar viajes y entregas. Sus componentes son:· Utilización de la flota y la fuerza laboral. · Minimización de costos. · Satisfacción del cliente. · Sincronización de la cadena de suministro. · Gestión de la congestión.")
           figcaption(data-aos="zoom-in-right") <b>Fuente:</b> SENA, 2025.
     
-    .row.justify-content-center.align-items-center
-      .col-12.col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
+    .row.justify-content-center.align-items-center.mb-5
+      .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/temas/tema_1/img_14.png', class="img-fluid") 
       .col-12.col-lg-8(data-aos="zoom-in-right")
@@ -147,6 +146,50 @@
                 span Requerimientos de mantenimiento.
           .col-8.col-lg-4.mb-3.mb-lg-0
         p.mb-0 A continuación, encontraremos los diferentes equipos que se utilizan para la manipulación de la carga:
+    
+    .row.justify-content-center.align-items-center.mb-0
+      .col-12.col-lg-8.order-2.order-lg-1.mb-0
+        .custom-slider.p-5.p-sm-3(data-aos="zoom-in-right")
+          SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-6")
+            .tarjeta--blanca-1.h-95
+              .row.justify-content-center.align-items-center.mb-0
+                .col-8.mb-3
+                  .tarjeta--1
+                .tarjeta--slider__title.mb-3.bg-color-acento-contenido.text-center.fw-bold Manuales
+                .tarjeta--slider__content.text-center Transpaletas manuales, carretillas, gatos para palés. Ideales para cargas ligeras y cortas distancias.
+            .tarjeta--blanca-1.h-95
+              .row.justify-content-center.align-items-center.mb-0
+                .col-8.mb-3
+                  .tarjeta--2
+                .tarjeta--slider__title.mb-3.bg-color-acento-contenido.text-center.fw-bold Motorizados
+                .tarjeta--slider__content.text-center Montacargas contrabalanceados, retráctiles, trilaterales, apiladores eléctricos. Permiten manejar cargas pesadas o voluminosas y optimizar el espacio.
+            .tarjeta--blanca-1.h-95
+              .row.justify-content-center.align-items-center.mb-0
+                .col-8.mb-3
+                  .tarjeta--3
+                .tarjeta--slider__title.mb-3.bg-color-acento-contenido.text-center.fw-bold Equipos de elevación.
+                .tarjeta--slider__content.text-center Grúas puente, polipastos, elevadores de tijera. Utilizados para elevar o mover cargas en vertical.
+            .tarjeta--blanca-1.h-95
+              .row.justify-content-center.align-items-center.mb-0
+                .col-8.mb-3
+                  .tarjeta--4
+                .tarjeta--slider__title.mb-3.bg-color-acento-contenido.text-center.fw-bold Equipos de almacenamiento.
+                .tarjeta--slider__content.text-center Estanterías selectivas y dinámicas, racks móviles, contenedores apilables. Facilitan la organización y acceso rápido a la mercancía.
+            .tarjeta--blanca-1.h-95
+              .row.justify-content-center.align-items-center.mb-0
+                .col-8.mb-3
+                  .tarjeta--5
+                .tarjeta--slider__title.mb-3.bg-color-acento-contenido.text-center.fw-bold Equipos para manipulación a granel.
+                .tarjeta--slider__content.text-center Tolvas, cintas transportadoras, apiladoras, recuperadoras. Especializados en el manejo de materiales a granel como alimentos, minerales o líquidos.
+            .tarjeta--blanca-1.h-95
+              .row.justify-content-center.align-items-center.mb-0
+                .col-8.mb-3
+                  .tarjeta--6
+                .tarjeta--slider__title.mb-3.bg-color-acento-contenido.text-center.fw-bold Sistemas automatizados.
+                .tarjeta--slider__content.text-center Cintas transportadoras, AGV, sistemas de picking robotizado, almacenes automáticos. Mejoran la eficiencia y reducen la intervención humana.
+      .col-8.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
+        figure
+          img(src='@/assets/curso/temas/tema_1/img_21.png', class="img-fluid")
 
     separador
 
@@ -156,10 +199,79 @@
 
     .bloque-texto-t.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-right")
       .bloque-texto-t__img.mb-0
-        img(src='@/assets/curso/temas/tema_1/img_21.png')
-      .bloque-texto-t__texto.color-adicional-gradient.col-10.mb-0
+        img(src='@/assets/curso/temas/tema_1/img_22.png')
+      .bloque-texto-t__texto.col-10.mb-0
         p.mb-0 La normativa son las leyes, decretos, resoluciones y normas técnicas que regulan cómo deben manipularse, transportarse y almacenarse los bienes dentro de la cadena logística, teniendo como propósito garantizar la seguridad de los trabajadores, proteger la integridad de los bienes, prevenir afectaciones al medio ambiente y asegurar la eficiencia y legalidad de las operaciones logísticas.
+    
+    .row.justify-content-center.align-items-center.mb-5
+      .col-8.col-lg-3.mb-5(data-aos="zoom-in-right")
+        figure
+          img(src='@/assets/curso/temas/tema_1/img_23.png', class="img-fluid") 
+      .col-12.col-lg-8.mb-5(data-aos="zoom-in-right")
+        p.mb-3 La normativa aplicable en la manipulación de bienes dentro de la cadena logística se desarrolla en diferentes ámbitos que permiten garantizar el correcto manejo de las operaciones y la protección de los recursos involucrados. Estos ámbitos establecen lineamientos claros para la ejecución de actividades relacionadas con el movimiento, el almacenamiento, la protección y la seguridad, asegurando que cada etapa del flujo de bienes se realice de manera eficiente y segura, en los siguientes aspectos:
+        .tarjeta.tarjeta--fondo__slider.p-4.mb-0
+          SlyderA(tipo="a").tarjeta.tarjeta--blanca.p-5
+            .row.justify-content-center.align-items-center
+              .col-10.col-lg-7.order-2.order-lg-1.mb-0
+                h5 Movimiento
+                p.mb-0 Operaciones de carga, descarga y transporte interno en el almacén.
+              .col-8.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
+                figure
+                  img(src='@/assets/curso/temas/tema_1/img_25.svg')
+            .row.justify-content-center.align-items-center
+              .col-10.col-lg-7.order-2.order-lg-1.mb-0
+                h5 Almacenamiento
+                p.mb-0 Condiciones de ubicación, ventilación, temperatura, humedad y uso de estibas.
+              .col-8.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
+                figure
+                  img(src='@/assets/curso/temas/tema_1/img_26.svg')
+            .row.justify-content-center.align-items-center
+              .col-10.col-lg-7.order-2.order-lg-1.mb-0
+                h5 Protección
+                p.mb-0 Embalaje, fijación y sujeción de mercancías.
+              .col-8.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
+                figure
+                  img(src='@/assets/curso/temas/tema_1/img_27.svg')
+            .row.justify-content-center.align-items-center
+              .col-10.col-lg-7.order-2.order-lg-1.mb-0
+                h5 Seguridad
+                p.mb-0 Incluye la seguridad laboral y la protección de los bienes y del entorno.
+              .col-8.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
+                figure
+                  img(src='@/assets/curso/temas/tema_1/img_28.svg')
+      .col-12.col-lg-10(data-aos="zoom-in-right")
+        .cajon.color-acento-contenido-10.p-4.mb-0(data-aos="fade-left")
+          p.mb-0 En Colombia, la manipulación, transporte y almacenamiento de bienes está regulada por un conjunto de normas legales y técnicas que establecen requisitos obligatorios para garantizar la seguridad laboral, la protección de las mercancías y el cumplimiento de estándares en las operaciones logísticas.
 
+    .row.justify-content-center.align-items-stretch
+      .col-12.col-sm-6.col-lg-4.mb-lg-0.mb-4.d-flex(data-aos="zoom-in-right")
+        .tarjeta.color-secundario-5.p-5.h-100.w-100.d-flex.flex-column
+          .row.justify-content-center.mb-3
+            .col-6
+              figure
+                img(src='@/assets/curso/temas/tema_1/img_29.svg', class="img-fluid")
+          h5.mb-3.text-center Seguridad  laboral y manipulación de cargas
+          p.mb-3.text-center <B>Decreto 1072 de 2015:</B> Establece el Sistema de Gestión de Seguridad y Salud en el Trabajo (SG-SST), exige capacitación al personal, uso de equipos adecuados y medidas de prevención de riesgos.
+          p.mb-0.text-center <B>Resolución 1409 de 2012:</B> Regula la manipulación manual de cargas, define límites de peso, promueve técnicas ergonómicas y obliga a identificar riesgos en tareas repetitivas o con sobreesfuerzo.
+      .col-12.col-sm-6.col-lg-4.mb-lg-0.mb-4.d-flex(data-aos="zoom-in-right")
+        .tarjeta.color-acento-contenido-5.p-5.h-100.w-100.d-flex.flex-column
+          .row.justify-content-center.mb-3
+            .col-6
+              figure
+                img(src='@/assets/curso/temas/tema_1/img_30.svg', class="img-fluid")
+          h5.mb-3.text-center Transporte de bienes
+          p.mb-3.text-center <B>Ley 769 de 2002 (Código Nacional de Tránsito):</B> Regula el transporte terrestre de mercancías, establece límites de peso y dimensiones, y obliga al uso de sistemas de fijación homologados.
+          p.mb-0.text-center <B>Decreto 1609 de 2002:</B> Regula el transporte y manejo de mercancías peligrosas como químicos, inflamables y explosivos, definiendo requisitos de embalaje, etiquetado, rotulación y planes de emergencia.
+      .col-12.col-sm-6.col-lg-4.mb-lg-0.mb-4.d-flex(data-aos="zoom-in-right")
+        .tarjeta.color-adicional-3.p-4.h-100.w-100.d-flex.flex-column
+          .row.justify-content-center.mb-3
+            .col-6
+              figure
+                img(src='@/assets/curso/temas/tema_1/img_31.svg', class="img-fluid")
+          h5.mb-3.text-center Normas técnicas (ICONTEC)
+          p.mb-3.text-center <B>NTC 5611:</B> Establece los requisitos para el almacenamiento de productos sólidos a granel.
+          p.mb-3.text-center <B>NTC 1694:</B> Define criterios de seguridad para el uso de equipos de izaje como grúas y montacargas.
+          p.mb-0.text-center <B>NTC 5378:</B> Regula los requisitos para el uso de estibas y la sujeción de carga durante el transporte.
 </template>
 
 <script>

@@ -94,11 +94,45 @@
 .barra-avance__boton--regresar span
   color: $color-sistema-texto !important
 
+.banner-interno__titulo h2
+  color: $white !important
+
 figcaption
   font-weight: normal
 
-.banner-interno__titulo h2
-  color: $color-sistema-texto !important
-
 .banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6
   color: $white
+
+// factores-slider custom-slider
+.factores-slider, .custom-slider
+  &__icon 
+    max-height: 93px
+  .h-95
+    height: 95% !important
+  .slyder-f
+    align-items: center
+    justify-content: center
+    gap: 0
+  .slyder-f__btn
+    background-color: $color-acento-botones
+    color: $white !important
+    height: 42px
+    width: 42px
+    min-width: 42px
+    border-radius: 50%
+    padding: 0 !important
+    transition: transform 0.3s
+    z-index: 100
+    
+    &:hover
+      transform: scale(1.1)
+    .fa-chevron-left, .fa-chevron-right
+      font-size: 1.5rem
+    &.ps-3
+      margin-left: 7px
+      @media (max-width: 1024px)
+        margin-left: 7px
+    &.pe-3
+      margin-right: 7px
+      @media (max-width: 1024px)
+        margin-right: 7px
