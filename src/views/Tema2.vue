@@ -91,6 +91,27 @@
           p.mb-0 Además, una adecuada organización contribuye a la seguridad del personal y a la eficiencia del proceso logístico, impactando positivamente en toda la cadena de suministro y en la competitividad de la empresa. A continuación, se describen las principales técnicas implementadas para la organización del almacén:
     
     .row.justify-content-center.align-items-center.mb-5
+      .col-12.col-lg-9.order-2.order-lg-1.mb-0
+        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--color-secundario-10")
+          div(titulo="Agrupación de productos similares")
+            p.ps-5.mb-0 Consiste en almacenar juntos productos que comparten características o que se manipulan de forma conjunta, facilitando su localización y conservación.
+          div(titulo="Almacenamiento vertical")
+            p.ps-5.mb-0 Aprovecha la altura del almacén mediante estanterías adecuadas para maximizar el espacio sin aumentar la superficie ocupada.
+          div(titulo="Ubicación diferenciada para cada producto")
+            p.ps-5.mb-0 Asignar un lugar fijo para cada artículo ayuda a mantener el orden y facilita la rápida localización.
+          div(titulo="Almacenamiento según clase de movimiento o rotación")
+            p.ps-5.mb-0 Los productos se ubican en función de la frecuencia con que son manipulados. Los de alta rotación se colocan en zonas de fácil acceso para agilizar el picking y la expedición.
+          div(titulo="Técnicas FIFO, LIFO y FEFO")
+            p.ps-5.mb-0 <B>FIFO (First In, First Out):</B> los productos que entran primero salen primero, ideal para evitar caducidades y obsolescencia.
+            p.ps-5.mb-0 <B>LIFO (Last In, First Out):</B> los productos más recientes se usan primero, útil en ciertos tipos de inventarios.
+            p.ps-5.mb-0 <B>FEFO (First Expired, First Out):</B> prioriza la salida de productos con fecha de caducidad más próxima, fundamental en alimentos y medicamentos.
+          div(titulo="Almacenamiento por bloques.")
+            p.ps-5.mb-0 Los productos se agrupan en grandes bloques, a menudo directamente sobre el suelo, facilitando el manejo de grandes volúmenes de mercancía similar.
+      .col-8.col-md-4.col-lg-3.mb-lg-3.order-1.order-lg-2.mb-md-3.mb-3
+        figure
+          img.mb-0(src="@/assets/curso/temas/tema_2/img_9.png", class="img-fluid")
+
+    .row.justify-content-center.align-items-center.mb-5
       .col-8.col-lg-4.mb-lg-0.mb-3
         figure
           img(src='@/assets/curso/temas/tema_2/img_10.png', class="img-fluid")
