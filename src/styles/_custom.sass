@@ -136,6 +136,36 @@ figcaption
       margin-right: 7px
       @media (max-width: 1024px)
         margin-right: 7px
+  &--color-fondo-1
+    &__icon 
+      max-height: 93px
+    .h-95
+      height: 95% !important
+    .slyder-f
+      align-items: center
+      justify-content: center
+      gap: 0
+    .slyder-f__btn
+      background-color: $color-primario !important
+      color: $white !important
+      height: 42px
+      width: 42px
+      min-width: 42px
+      border-radius: 50%
+      padding: 0 !important
+      transition: transform 0.3s
+      &:hover
+        transform: scale(1.1)
+      .fa-chevron-left, .fa-chevron-right
+        font-size: 1.5rem
+      &.ps-3
+        margin-left: 7px
+        @media (max-width: 1024px)
+          margin-left: 7px
+      &.pe-3
+        margin-right: 7px
+        @media (max-width: 1024px)
+          margin-right: 7px
 
 //acordion__activo
 .acordion__activo
@@ -143,3 +173,17 @@ figcaption
 .acordion__accion__btn--a 
   background-color: $color-acento-botones !important
   color: $white
+
+//custom-transform
+.custom-t
+  transform: translateY(-65px)
+
+// Tabla a 
+.tabla-a thead
+  border-top: 5px $color-adicional-5 solid
+  background-color: $color-secundario-20
+  color: $color-sistema-a
+  font-weight: bold
+.bg-table-01
+  background-color: $color-adicional-6
+  color: $color-sistema-texto

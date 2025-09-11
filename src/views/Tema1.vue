@@ -153,39 +153,39 @@
           SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-6")
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
-                .col-8.mb-3
+                .col-12.mb-3
                   .tarjeta--1
-                .tarjeta--slider__title.mb-3.bg-color-acento-contenido.text-center.fw-bold Manuales
+                .tarjeta--slider__title.mb-3.text-center.fw-bold Manuales
                 .tarjeta--slider__content.text-center Transpaletas manuales, carretillas, gatos para palés. Ideales para cargas ligeras y cortas distancias.
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
-                .col-8.mb-3
+                .col-12.mb-3
                   .tarjeta--2
-                .tarjeta--slider__title.mb-3.bg-color-acento-contenido.text-center.fw-bold Motorizados
+                .tarjeta--slider__title.mb-3.text-center.fw-bold Motorizados
                 .tarjeta--slider__content.text-center Montacargas contrabalanceados, retráctiles, trilaterales, apiladores eléctricos. Permiten manejar cargas pesadas o voluminosas y optimizar el espacio.
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
-                .col-8.mb-3
+                .col-12.mb-3
                   .tarjeta--3
-                .tarjeta--slider__title.mb-3.bg-color-acento-contenido.text-center.fw-bold Equipos de elevación.
+                .tarjeta--slider__title.mb-3.text-center.fw-bold Equipos de elevación.
                 .tarjeta--slider__content.text-center Grúas puente, polipastos, elevadores de tijera. Utilizados para elevar o mover cargas en vertical.
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
-                .col-8.mb-3
+                .col-12.mb-3
                   .tarjeta--4
-                .tarjeta--slider__title.mb-3.bg-color-acento-contenido.text-center.fw-bold Equipos de almacenamiento.
+                .tarjeta--slider__title.mb-3.text-center.fw-bold Equipos de almacenamiento.
                 .tarjeta--slider__content.text-center Estanterías selectivas y dinámicas, racks móviles, contenedores apilables. Facilitan la organización y acceso rápido a la mercancía.
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
-                .col-8.mb-3
+                .col-12.mb-3
                   .tarjeta--5
-                .tarjeta--slider__title.mb-3.bg-color-acento-contenido.text-center.fw-bold Equipos para manipulación a granel.
+                .tarjeta--slider__title.mb-3.text-center.fw-bold Equipos para manipulación a granel.
                 .tarjeta--slider__content.text-center Tolvas, cintas transportadoras, apiladoras, recuperadoras. Especializados en el manejo de materiales a granel como alimentos, minerales o líquidos.
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
-                .col-8.mb-3
+                .col-12.mb-3
                   .tarjeta--6
-                .tarjeta--slider__title.mb-3.bg-color-acento-contenido.text-center.fw-bold Sistemas automatizados.
+                .tarjeta--slider__title.mb-3.text-center.fw-bold Sistemas automatizados.
                 .tarjeta--slider__content.text-center Cintas transportadoras, AGV, sistemas de picking robotizado, almacenes automáticos. Mejoran la eficiencia y reducen la intervención humana.
       .col-8.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
         figure

@@ -120,33 +120,33 @@
           SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-6")
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
-                .col-8.mb-3
+                .col-12.mb-3
                   .tarjeta--7
-                .tarjeta--slider__title.mb-3.bg-color-acento-contenido.text-center.fw-bold Estanterías selectivas
+                .tarjeta--slider__title.mb-3.text-center.fw-bold Estanterías selectivas
                 .tarjeta--slider__content.text-center Sistema versátil y común que permite acceso directo a cada palé o producto, con opciones de simple o doble profundidad
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
-                .col-8.mb-3
+                .col-12.mb-3
                   .tarjeta--8
-                .tarjeta--slider__title.mb-3.bg-color-acento-contenido.text-center.fw-bold Estanterías dinámicas y push-back
+                .tarjeta--slider__title.mb-3.text-center.fw-bold Estanterías dinámicas y push-back
                 .tarjeta--slider__content.text-center Utilizan rodillos y gravedad para facilitar la entrada y salida de mercancías, garantizando rotación eficiente y ahorro de espacio.
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
-                .col-8.mb-3
+                .col-12.mb-3
                   .tarjeta--9
-                .tarjeta--slider__title.mb-3.bg-color-acento-contenido.text-center.fw-bold Cross-docking
+                .tarjeta--slider__title.mb-3.text-center.fw-bold Cross-docking
                 .tarjeta--slider__content.text-center Técnica que minimiza el almacenamiento intermedio, enviando la mercancía directamente de recepción a expedición para acelerar el flujo.
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
-                .col-8.mb-3
+                .col-12.mb-3
                   .tarjeta--10
-                .tarjeta--slider__title.mb-3.bg-color-acento-contenido.text-center.fw-bold Almacenamiento en entresuelo
+                .tarjeta--slider__title.mb-3.text-center.fw-bold Almacenamiento en entresuelo
                 .tarjeta--slider__content.text-center Divide el almacén en dos niveles para optimizar espacio, requiriendo atención a la seguridad y manejo mecánico.
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
-                .col-8.mb-3
+                .col-12.mb-3
                   .tarjeta--11
-                .tarjeta--slider__title.mb-3.bg-color-acento-contenido.text-center.fw-bold Zonificación del almacén.
+                .tarjeta--slider__title.mb-3.text-center.fw-bold Zonificación del almacén.
                 .tarjeta--slider__content.text-center Dividir el espacio en zonas específicas según tipo de producto, rotación o función (recepción, picking, expedición) para facilitar la gestión y el flujo de bienes.
     .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-10.mb-0
