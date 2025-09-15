@@ -66,7 +66,7 @@
           .tarjeta.color-secundario-5.p-4.h-100.tarjeta-tabs-a__tarjeta(titulo="Automatizada")
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-7.order-2.order-lg-1.mb-0
-                p.mb-0 Emplea sistemas automáticos como cintas transportadoras, vehículos de guiado automático (AGV), sistemas de picking robotizado y almacenes automatizados. Esta técnica es ideal para operaciones de alto volumen, mejora la trazabilidad, reduce errores y minimiza riesgos laborales.
+                p.mb-0 Emplea sistemas automáticos como cintas transportadoras, vehículos de guiado automático (AGV), sistemas de <i>picking</i> robotizado y almacenes automatizados. Esta técnica es ideal para operaciones de alto volumen, mejora la trazabilidad, reduce errores y minimiza riesgos laborales.
               .col-6.col-lg-2.order-1.order-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_1/img_8.svg', class="img-fluid")
@@ -186,7 +186,7 @@
                 .col-12.mb-3
                   .tarjeta--6
                 .tarjeta--slider__title.mb-3.text-center.fw-bold Sistemas automatizados.
-                .tarjeta--slider__content.text-center Cintas transportadoras, AGV, sistemas de picking robotizado, almacenes automáticos. Mejoran la eficiencia y reducen la intervención humana.
+                .tarjeta--slider__content.text-center Cintas transportadoras, AGV, sistemas de <i>picking</i> robotizado, almacenes automáticos. Mejoran la eficiencia y reducen la intervención humana.
       .col-8.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
         figure
           img(src='@/assets/curso/temas/tema_1/img_21.png', class="img-fluid")

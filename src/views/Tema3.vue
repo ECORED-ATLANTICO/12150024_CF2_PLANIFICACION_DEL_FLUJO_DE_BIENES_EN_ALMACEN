@@ -57,7 +57,7 @@
             .row.justify-content-center.align-items-center
               .col-10.col-lg-7.order-2.order-lg-1.mb-0
                 h5 Mejorar la precisión en inventarios.
-                p.mb-0 Evitar errores en picking y almacenamiento.
+                p.mb-0 Evitar errores en <i>picking</i> y almacenamiento.
               .col-8.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_3/img_7.png')
@@ -68,7 +68,7 @@
               .col-8.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_3/img_8.png')
-        p.mb-0 Antes de iniciar con la programación del almacén, es necesario tener en cuenta factores clave como el volumen de mercancías, el tipo de bienes a manejar, el layout o distribución de las zonas del almacén y la tecnología disponible, incluyendo sistemas de gestión WMS y procesos de automatización, ya que estos elementos determinan la eficiencia y organización de las operaciones logísticas.
+        p.mb-0 Antes de iniciar con la programación del almacén, es necesario tener en cuenta factores clave como el volumen de mercancías, el tipo de bienes a manejar, el <i>layout</i> o distribución de las zonas del almacén y la tecnología disponible, incluyendo sistemas de gestión WMS y procesos de automatización, ya que estos elementos determinan la eficiencia y organización de las operaciones logísticas.
 
     separador
 
@@ -82,7 +82,7 @@
           figure.p-0
             img(src="@/assets/curso/temas/tema_3/img_9.png", class="img-fluid").p-0
         .col-12.col-lg-7.p-5
-          p.mb-3 Conocer los tipos de programación o software de gestión de almacén es fundamental para optimizar la operación logística y la administración del inventario en cualquier empresa que maneje almacenes.
+          p.mb-3 Conocer los tipos de programación o <i>software</i> de gestión de almacén es fundamental para optimizar la operación logística y la administración del inventario en cualquier empresa que maneje almacenes.
           p.mb-0 Dependiendo de las necesidades del almacén, se pueden aplicar diferentes tipos de programación y sistemas que optimicen el proceso.
 
     .row.justify-content-center.align-items-center
@@ -91,8 +91,8 @@
           h5 Figura 3.
           span Tipos de programación de almacén
         figure(data-aos="zoom-in-right")
-          img(src='@/assets/curso/temas/tema_3/img_10.svg', class="img-fluid d-none d-lg-block mb-3")
-          img(src='@/assets/curso/temas/tema_3/img_11.svg', class="img-fluid d-block d-lg-none mb-3")
+          img(src='@/assets/curso/temas/tema_3/img_10.svg', class="img-fluid d-none d-lg-block mb-3", alt="La figura presenta los principales tipos de programación de almacén: por órdenes de pedido, por rutas de picking, por oleadas, en tiempo real y por turnos, cada uno con criterios y aplicaciones específicas según el tipo de operación.")
+          img(src='@/assets/curso/temas/tema_3/img_11.svg', class="img-fluid d-block d-lg-none mb-3", alt="La figura presenta los principales tipos de programación de almacén: por órdenes de pedido, por rutas de picking, por oleadas, en tiempo real y por turnos, cada uno con criterios y aplicaciones específicas según el tipo de operación.")
           figcaption(data-aos="zoom-in-right") <b>Fuente:</b> SENA, 2025.
       .col-12.col-lg-10.mb-0
 
@@ -144,16 +144,16 @@
             td(rowspan="2") <B>Métodos de medición</B> 
             td.text-start <B>Cronometraje directo:</B> medición con cronómetro de tiempos de recorrido.
             td.text-start(rowspan="2") 
-              p.mb-2 Para un picking de 20 ítems, se cronometra que el operario tarda:
+              p.mb-2 Para un <i>picking</i> de 20 ítems, se cronometra que el operario tarda:
               p.mb-2 3 min en llegar a la primera ubicación.
               p.mb-2 8 min en recolectar todos los ítems.
               p.mb-2 2 min en regresar a la zona de despacho.
               p.mb-0 <B>Total:</B> 13 minutos / orden.
           tr
-            td.text-start <B>Sistemas de tracking:</B> uso de RFID, sensores IoT, sistemas de posicionamiento en interiores, wearables para operarios.
+            td.text-start <B>Sistemas de <i>tracking</i>:</B> uso de RFID, sensores IoT, sistemas de posicionamiento en interiores, wearables para operarios.
           tr
             td(rowspan="4") <B>Métricas clave</B> 
-            td.text-start <B>Distancia total recorrida:</B> metros/kilómetros por jornada.
+            td.text-start <B>Distancia total recorrida:</B> metros / kilómetros por jornada.
             td.text-start(rowspan="4")
               p.mb-2 Un operario con wearable registra en su turno de 8 horas:
               p.mb-2 12.7 km recorridos.
@@ -185,7 +185,7 @@
               p.mb-2 09:18 - Pasillo 3 → Zona B.  
               p.mb-0 09:22 - Zona B → Pasillo 7 (Tiempo muerto: 1.5 min).
           tr
-            td.text-start.bg-table-01 <B>Software de simulación:</B> FlexSim, AnyLogic.
+            td.text-start.bg-table-01 <B><i>Software</i> de simulación:</B> FlexSim, AnyLogic.
 
     .row.justify-content-center.align-items-center
       .col-12.col-lg-10.mb-5(data-aos="zoom-in-right")
@@ -277,7 +277,7 @@
                 .col-12.mb-3
                   .tarjeta--15
                 .tarjeta--slider__title.mb-3.text-center.fw-bold Órdenes de reabastecimiento
-                .tarjeta--slider__content.text-center Trasladar stock desde la reserva hacia áreas de picking cuando hay escasez.
+                .tarjeta--slider__content.text-center Trasladar <i>stock</i> desde la reserva hacia áreas de <i>picking</i> cuando hay escasez.
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
@@ -288,7 +288,7 @@
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
                   .tarjeta--17
-                .tarjeta--slider__title.mb-3.text-center.fw-bold Órdenes de cross-docking
+                .tarjeta--slider__title.mb-3.text-center.fw-bold Órdenes de <i>cross-docking</i>
                 .tarjeta--slider__content.text-center Mover productos directamente de recepción a despacho sin pasar por almacenamiento.
       .col-8.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
         figure

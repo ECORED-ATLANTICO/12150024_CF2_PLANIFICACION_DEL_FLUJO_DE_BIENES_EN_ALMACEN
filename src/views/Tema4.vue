@@ -12,7 +12,7 @@
         figure
           img(src='@/assets/curso/temas/tema_4/img_1.png', class="img-fluid")
       .col-12.col-lg-9.mb-lg-0.mb-3(data-aos="zoom-in-right")
-        p.mb-3 Una estrategia de planificación bien diseñada permite optimizar el uso del espacio, reducir los costos operativos y mejorar tanto la eficiencia como la precisión en cada etapa del proceso logístico. Esto se traduce en una mejor gestión del inventario, disminuyendo los riesgos de faltantes o excesos de stock, y agilizando la preparación y envío de pedidos.
+        p.mb-3 Una estrategia de planificación bien diseñada permite optimizar el uso del espacio, reducir los costos operativos y mejorar tanto la eficiencia como la precisión en cada etapa del proceso logístico. Esto se traduce en una mejor gestión del inventario, disminuyendo los riesgos de faltantes o excesos de <i>stock</i>, y agilizando la preparación y envío de pedidos.
         p.mb-0 La planificación de almacén no solo se limita a la gestión diaria, sino que debe ser estratégica, considerando el crecimiento futuro, la flexibilidad en el diseño del almacén y la adaptación a nuevas tecnologías o cambios en la demanda.
     .row.justify-content-center.align-items-center
       .col-12.col-lg-10.mb-0
@@ -80,8 +80,8 @@
           h5 Figura 4.
           span Factores clave de la planificación de almacén
         figure.mb-5(data-aos="zoom-in-right")
-          img(src='@/assets/curso/temas/tema_4/img_10.svg', class="img-fluid d-none d-lg-block mb-3")
-          img(src='@/assets/curso/temas/tema_4/img_11.svg', class="img-fluid d-block d-lg-none mb-3")
+          img(src='@/assets/curso/temas/tema_4/img_10.svg', class="img-fluid d-none d-lg-block mb-3", alt="La figura muestra los factores clave de la planificación de almacén: volumen de los bienes, rotación de stock, tipo de bienes, tecnología disponible y requerimientos legales y de seguridad.")
+          img(src='@/assets/curso/temas/tema_4/img_11.svg', class="img-fluid d-block d-lg-none mb-3", alt="La figura muestra los factores clave de la planificación de almacén: volumen de los bienes, rotación de stock, tipo de bienes, tecnología disponible y requerimientos legales y de seguridad.")
           figcaption(data-aos="zoom-in-right") <b>Fuente:</b> SENA, 2025.
       
         p.mb-0 Es importante tener en cuenta los siguientes factores que influyen al momento de realizar la planificación del almacén:
@@ -115,36 +115,36 @@
               th Descripción
             tbody
               tr
-                td(rowspan="4") <B>Diseño de layout (distribución en planta)</B>
+                td(rowspan="4") <B>Diseño de <i>layout</i> (distribución en planta)</B>
                 td.text-start Almacenamiento en bloque.
                 td.text-start Para bienes homogéneos y de gran volumen (ejemplo: palets).
               tr.bg-table-01
                 td.text-start Sistema de estanterías selectivas.
                 td.text-start Ideal para productos con alta rotación.
               tr
-                td.text-start Sistema de flujo continuo (Flow Racking). 
+                td.text-start Sistema de flujo continuo (<i>Flow Racking</i>). 
                 td.text-start Para productos con caducidad
               tr.bg-table-01
-                td.text-start Almacenamiento compacto (Drive-in, Push-back)
+                td.text-start Almacenamiento compacto (<i>Drive-in</i>, <i>Push-back</i>)
                 td.text-start Para maximizar espacio en productos de baja rotación.
               tr
                 td(rowspan="6") <B>Métodos de almacenamiento</B>
                 td.text-start Método ABC.
                 td.text-start Clasifica productos según su importancia (A: alto valor/rotación, B: medio, C: bajo).
               tr.bg-table-01
-                td.text-start Cross-Docking.
+                td.text-start <i>Cross-Docking</i>.
                 td.text-start Minimiza el tiempo de almacenamiento transfiriendo mercancía directamente de entrada a salida.
               tr
                 td.text-start Justo a tiempo.
                 td.text-start Reduce inventarios recibiendo productos solo cuando son necesarios.
               tr.bg-table-01
-                td.text-start Picking por zonas.
+                td.text-start <i>Picking</i> por zonas.
                 td.text-start Optimización de espacio y recursos.
               tr
-                td.text-start Picking por lotes. 
+                td.text-start <i>Picking</i> por lotes. 
                 td.text-start Agrupa pedidos similares para reducir tiempos.
               tr.bg-table-01
-                td.text-start Picking por oleadas.
+                td.text-start <i>Picking</i> por oleadas.
                 td.text-start Organiza pedidos en fases según prioridad.
       .col-12.col-lg-10.mb-3 
         p.mb-0 Estas técnicas, combinadas y adaptadas a las características específicas de cada empresa y tipo de bienes, permiten una planificación eficiente del almacén, garantizando la competitividad y la capacidad de respuesta ante las exigencias del mercado.
@@ -182,7 +182,7 @@
             .row.justify-content-center.align-items-center
               .col-12.col-lg-6.order-2.order-lg-1.mb-0
                 h5.mb-3 Plan operativo.
-                p.mb-0 Establece los objetivos a corto plazo, con un enfoque diario y semanal, orientados al control de la ejecución eficiente de las operaciones, la asignación puntual de tareas, la gestión de recepción, almacenamiento, picking y despacho, así como la programación adecuada de turnos para garantizar continuidad, productividad y cumplimiento oportuno en cada actividad.
+                p.mb-0 Establece los objetivos a corto plazo, con un enfoque diario y semanal, orientados al control de la ejecución eficiente de las operaciones, la asignación puntual de tareas, la gestión de recepción, almacenamiento, <i>picking</i> y despacho, así como la programación adecuada de turnos para garantizar continuidad, productividad y cumplimiento oportuno en cada actividad.
               .col-12.col-lg-5.order-1.order-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_4/img_17.png', class="img-fluid")
@@ -203,7 +203,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-8.order-2.order-lg-1.mb-0
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--color-secundario-10")
-          div(titulo="Software de gestión de almacenes (SGA/WMS)")
+          div(titulo="<i>Software</i> de gestión de almacenes (SGA/WMS)")
             p.ps-5.mb-0 Automatiza el control de inventarios, coordina procesos, sincroniza tareas y permite el seguimiento en tiempo real de bienes y operarios.
           div(titulo="Sistemas de identificación automática")
             p.ps-5.mb-0 Uso de códigos de barras, RFID y terminales de radiofrecuencia para el registro y localización de bienes.
@@ -315,7 +315,7 @@
                 li.d-flex.align-items-start.mb-1
                   i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color: #FE8849; font-size: 15px; line-height: 1.5;")
                   span
-                    <strong>Plan de layout de almacén:</strong> 
+                    <strong>Plan de <i>layout</i> de almacén:</strong> 
                       |  diseño gráfico de la distribución física (estanterías, zonas o flujos).
                 li.d-flex.align-items-start.mb-1
                   i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color: #FE8849; font-size: 15px; line-height: 1.5;")

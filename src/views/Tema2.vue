@@ -100,11 +100,11 @@
           div(titulo="Ubicación diferenciada para cada producto")
             p.ps-5.mb-0 Asignar un lugar fijo para cada artículo ayuda a mantener el orden y facilita la rápida localización.
           div(titulo="Almacenamiento según clase de movimiento o rotación")
-            p.ps-5.mb-0 Los productos se ubican en función de la frecuencia con que son manipulados. Los de alta rotación se colocan en zonas de fácil acceso para agilizar el picking y la expedición.
+            p.ps-5.mb-0 Los productos se ubican en función de la frecuencia con que son manipulados. Los de alta rotación se colocan en zonas de fácil acceso para agilizar el <i>picking</i> y la expedición.
           div(titulo="Técnicas FIFO, LIFO y FEFO")
-            p.ps-5.mb-0 <B>FIFO (First In, First Out):</B> los productos que entran primero salen primero, ideal para evitar caducidades y obsolescencia.
-            p.ps-5.mb-0 <B>LIFO (Last In, First Out):</B> los productos más recientes se usan primero, útil en ciertos tipos de inventarios.
-            p.ps-5.mb-0 <B>FEFO (First Expired, First Out):</B> prioriza la salida de productos con fecha de caducidad más próxima, fundamental en alimentos y medicamentos.
+            p.ps-5.mb-0 <B>FIFO (<i>First In, First Out</i>):</B> los productos que entran primero salen primero, ideal para evitar caducidades y obsolescencia.
+            p.ps-5.mb-0 <B>LIFO (<i>Last In, First Out</i>):</B> los productos más recientes se usan primero, útil en ciertos tipos de inventarios.
+            p.ps-5.mb-0 <B>FEFO (<i>First Expired, First Out</i>):</B> prioriza la salida de productos con fecha de caducidad más próxima, fundamental en alimentos y medicamentos.
           div(titulo="Almacenamiento por bloques.")
             p.ps-5.mb-0 Los productos se agrupan en grandes bloques, a menudo directamente sobre el suelo, facilitando el manejo de grandes volúmenes de mercancía similar.
       .col-8.col-md-4.col-lg-3.mb-lg-3.order-1.order-lg-2.mb-md-3.mb-3
@@ -128,13 +128,13 @@
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
                   .tarjeta--8
-                .tarjeta--slider__title.mb-3.text-center.fw-bold Estanterías dinámicas y push-back
+                .tarjeta--slider__title.mb-3.text-center.fw-bold Estanterías dinámicas y <i>push-back</i>
                 .tarjeta--slider__content.text-center Utilizan rodillos y gravedad para facilitar la entrada y salida de mercancías, garantizando rotación eficiente y ahorro de espacio.
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
                   .tarjeta--9
-                .tarjeta--slider__title.mb-3.text-center.fw-bold Cross-docking
+                .tarjeta--slider__title.mb-3.text-center.fw-bold <i>Cross-docking</i>
                 .tarjeta--slider__content.text-center Técnica que minimiza el almacenamiento intermedio, enviando la mercancía directamente de recepción a expedición para acelerar el flujo.
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
@@ -170,11 +170,11 @@
           .tarjeta.color-secundario-5.p-4.h-100.tarjeta-tabs-a__tarjeta(titulo="Mantener orden y limpieza (5S)")
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-4.order-2.order-lg-1.mb-0
-                p.mb-0 <B>Seiri (clasificar):</B> eliminar lo innecesario.
-                p.mb-0 <B>Seiton (organizar):</B> todo en su lugar.
-                p.mb-0 <B>Seiso (limpiar):</B> mantener áreas libres de obstáculos.
-                p.mb-0 <B>Seiketsu (estandarizar):</B> protocolos claros.
-                p.mb-0 <B>Shitsuke (disciplina):</B> cumplimiento constante.
+                p.mb-0 <B><i>Seiri</i> (clasificar):</B> eliminar lo innecesario.
+                p.mb-0 <B><i>Seiton</i> (organizar):</B> todo en su lugar.
+                p.mb-0 <B><i>Seiso</i> (limpiar):</B> mantener áreas libres de obstáculos.
+                p.mb-0 <B><i>Seiketsu</i> (estandarizar):</B> protocolos claros.
+                p.mb-0 <B><i>Shitsuke</i> (disciplina):</B> cumplimiento constante.
               .col-12.col-lg-7.order-1.order-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_2/img_19.png', class="img-fluid")
@@ -192,10 +192,10 @@
               .col-12.col-lg-7.order-1.order-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_2/img_21.png', class="img-fluid")
-          .tarjeta.color-secundario-5.p-4.h-100.tarjeta-tabs-a__tarjeta(titulo="estión de stock eficiente")
+          .tarjeta.color-secundario-5.p-4.h-100.tarjeta-tabs-a__tarjeta(titulo="estión de <i>stock</i> eficiente")
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-4.order-2.order-lg-1.mb-0
-                p.mb-0 Realizar inventarios periódicos y evitar sobrestock o roturas de stock.
+                p.mb-0 Realizar inventarios periódicos y evitar <i>sobrestock</i> o roturas de <i>stock</i>.
               .col-12.col-lg-7.order-1.order-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_2/img_22.png', class="img-fluid")
