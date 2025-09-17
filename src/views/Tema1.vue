@@ -167,19 +167,19 @@
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
                   .tarjeta--3
-                .tarjeta--slider__title.mb-3.text-center.fw-bold Equipos de elevación.
+                .tarjeta--slider__title.mb-3.text-center.fw-bold Equipos de elevación
                 .tarjeta--slider__content.text-center Grúas puente, polipastos, elevadores de tijera. Utilizados para elevar o mover cargas en vertical.
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
                   .tarjeta--4
-                .tarjeta--slider__title.mb-3.text-center.fw-bold Equipos de almacenamiento.
+                .tarjeta--slider__title.mb-3.text-center.fw-bold Equipos de almacenamiento
                 .tarjeta--slider__content.text-center Estanterías selectivas y dinámicas, racks móviles, contenedores apilables. Facilitan la organización y acceso rápido a la mercancía.
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
                   .tarjeta--5
-                .tarjeta--slider__title.mb-3.text-center.fw-bold Equipos para manipulación a granel.
+                .tarjeta--slider__title.mb-3.text-center.fw-bold Equipos para manipulación a granel
                 .tarjeta--slider__content.text-center Tolvas, cintas transportadoras, apiladoras, recuperadoras. Especializados en el manejo de materiales a granel como alimentos, minerales o líquidos.
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
@@ -251,8 +251,8 @@
               figure
                 img(src='@/assets/curso/temas/tema_1/img_29.svg', class="img-fluid")
           h5.mb-3.text-center Seguridad  laboral y manipulación de cargas
-          p.mb-3.text-center <B>Decreto 1072 de 2015:</B> Establece el Sistema de Gestión de Seguridad y Salud en el Trabajo (SG-SST), exige capacitación al personal, uso de equipos adecuados y medidas de prevención de riesgos.
-          p.mb-0.text-center <B>Resolución 1409 de 2012:</B> Regula la manipulación manual de cargas, define límites de peso, promueve técnicas ergonómicas y obliga a identificar riesgos en tareas repetitivas o con sobreesfuerzo.
+          p.mb-3.text-center <B>Decreto 1072 de 2015:</B> establece el Sistema de Gestión de Seguridad y Salud en el Trabajo (SG-SST), exige capacitación al personal, uso de equipos adecuados y medidas de prevención de riesgos.
+          p.mb-0.text-center <B>Resolución 1409 de 2012:</B> regula la manipulación manual de cargas, define límites de peso, promueve técnicas ergonómicas y obliga a identificar riesgos en tareas repetitivas o con sobreesfuerzo.
       .col-12.col-sm-6.col-lg-4.mb-lg-0.mb-4.d-flex(data-aos="zoom-in-right")
         .tarjeta.color-acento-contenido-5.p-5.h-100.w-100.d-flex.flex-column
           .row.justify-content-center.mb-3
@@ -260,8 +260,8 @@
               figure
                 img(src='@/assets/curso/temas/tema_1/img_30.svg', class="img-fluid")
           h5.mb-3.text-center Transporte de bienes
-          p.mb-3.text-center <B>Ley 769 de 2002 (Código Nacional de Tránsito):</B> Regula el transporte terrestre de mercancías, establece límites de peso y dimensiones, y obliga al uso de sistemas de fijación homologados.
-          p.mb-0.text-center <B>Decreto 1609 de 2002:</B> Regula el transporte y manejo de mercancías peligrosas como químicos, inflamables y explosivos, definiendo requisitos de embalaje, etiquetado, rotulación y planes de emergencia.
+          p.mb-3.text-center <B>Ley 769 de 2002 (Código Nacional de Tránsito):</B> regula el transporte terrestre de mercancías, establece límites de peso y dimensiones, y obliga al uso de sistemas de fijación homologados.
+          p.mb-0.text-center <B>Decreto 1609 de 2002:</B> regula el transporte y manejo de mercancías peligrosas como químicos, inflamables y explosivos, definiendo requisitos de embalaje, etiquetado, rotulación y planes de emergencia.
       .col-12.col-sm-6.col-lg-4.mb-lg-0.mb-4.d-flex(data-aos="zoom-in-right")
         .tarjeta.color-adicional-3.p-4.h-100.w-100.d-flex.flex-column
           .row.justify-content-center.mb-3
@@ -269,9 +269,9 @@
               figure
                 img(src='@/assets/curso/temas/tema_1/img_31.svg', class="img-fluid")
           h5.mb-3.text-center Normas técnicas (ICONTEC)
-          p.mb-3.text-center <B>NTC 5611:</B> Establece los requisitos para el almacenamiento de productos sólidos a granel.
-          p.mb-3.text-center <B>NTC 1694:</B> Define criterios de seguridad para el uso de equipos de izaje como grúas y montacargas.
-          p.mb-0.text-center <B>NTC 5378:</B> Regula los requisitos para el uso de estibas y la sujeción de carga durante el transporte.
+          p.mb-3.text-center <B>NTC 5611:</B> establece los requisitos para el almacenamiento de productos sólidos a granel.
+          p.mb-3.text-center <B>NTC 1694:</B> define criterios de seguridad para el uso de equipos de izaje como grúas y montacargas.
+          p.mb-0.text-center <B>NTC 5378:</B> regula los requisitos para el uso de estibas y la sujeción de carga durante el transporte.
 </template>
 
 <script>

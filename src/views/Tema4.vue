@@ -38,7 +38,7 @@
                 .col-12.mb-3
                   .tarjeta--18
                 .tarjeta--slider__title.mb-3.text-center.fw-bold Maximizar el espacio disponible
-                .tarjeta--slider__content.text-center Aprovechar al máximo el área de almacenamiento mediante una disposición inteligente de estanterías, racks y zonas de trabajo.
+                .tarjeta--slider__content.text-center Aprovechar al máximo el área de almacenamiento mediante una disposición inteligente de estanterías, <i>racks</i> y zonas de trabajo.
             .tarjeta--color-fondo-1.h-95
               .row.justify-content-center.align-items-center.mb-0 
                 .col-12.mb-3
@@ -50,7 +50,7 @@
                 .col-12.mb-3
                   .tarjeta--20
                 .tarjeta--slider__title.mb-3.text-center.fw-bold Maximizar el espacio disponible
-                .tarjeta--slider__content.text-center Aprovechar al máximo el área de almacenamiento mediante una disposición inteligente de estanterías, racks y zonas de trabajo.
+                .tarjeta--slider__content.text-center Aprovechar al máximo el área de almacenamiento mediante una disposición inteligente de estanterías, <i>racks</i> y zonas de trabajo.
             .tarjeta--color-fondo-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
@@ -102,8 +102,8 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10.mb-3
         .titulo-sexto.color-acento-contenido
-          h5 Tabla 1.
-          span Técnicas de cuantificación de recorridos en almacén
+          h5 Tabla 3.
+          span Técnicas de planificación de almacén
         .tabla-a.mb-5
           table
             caption 
@@ -117,13 +117,13 @@
               tr
                 td(rowspan="4") <B>Diseño de <i>layout</i> (distribución en planta)</B>
                 td.text-start Almacenamiento en bloque.
-                td.text-start Para bienes homogéneos y de gran volumen (ejemplo: palets).
+                td.text-start Para bienes homogéneos y de gran volumen (ejemplo: <i>palets</i>).
               tr.bg-table-01
                 td.text-start Sistema de estanterías selectivas.
                 td.text-start Ideal para productos con alta rotación.
               tr
                 td.text-start Sistema de flujo continuo (<i>Flow Racking</i>). 
-                td.text-start Para productos con caducidad
+                td.text-start Para productos con caducidad.
               tr.bg-table-01
                 td.text-start Almacenamiento compacto (<i>Drive-in</i>, <i>Push-back</i>)
                 td.text-start Para maximizar espacio en productos de baja rotación.
@@ -208,9 +208,9 @@
           div(titulo="Sistemas de identificación automática")
             p.ps-5.mb-0 Uso de códigos de barras, RFID y terminales de radiofrecuencia para el registro y localización de bienes.
           div(titulo="Robótica y automatización")
-            p.ps-5.mb-0 Robots móviles, transelevadores, sistemas shuttle y transportadores automáticos para el movimiento eficiente de bienes.
-          div(titulo="Analítica predictiva y big data")
-            p.ps-5.mb-0 Herramientas que permiten anticipar la demanda, optimizar el slotting y mejorar la toma de decisiones.
+            p.ps-5.mb-0 Robots móviles, transelevadores, sistemas <i>shuttle</i> y transportadores automáticos para el movimiento eficiente de bienes.
+          div(titulo="Analítica predictiva y <i>big data</i>")
+            p.ps-5.mb-0 Herramientas que permiten anticipar la demanda, optimizar el <i>slotting</i> y mejorar la toma de decisiones.
           div(titulo="Dirección por voz y asistentes digitales")
             p.ps-5.mb-0 Facilitan la preparación de pedidos y otras tareas mediante instrucciones auditivas, aumentando la productividad y precisión.
           div(titulo="Integración con IoT (internet de las cosas)")

@@ -46,25 +46,10 @@
     
 .banner-principal .tarjeta
   
-@media (min-width: 426px)
-  .banner-principal .tarjeta
-   
-@media (min-width: 769px)
-  .banner-principal .tarjeta
-    padding-right: 0
-    overflow: hidden
-
-  .banner-principal__row 
-  .banner-principal__img
-    width: 400px
-    padding: 3rem 0 0 0 !important
-    
-
-@media (min-width: 1025px)
-  .banner-principal__row .banner-principal__img
-    width: 550px
-    padding-bottom: 0 !important
-    padding-top: 0 !important
+.banner-principal__row .banner-principal__img
+  width: 500px !important
+  @media screen and (max-width: $bp-max-xl)
+    width: 400px !important
 
 .titulo-principal__numero
   min-width: 45px

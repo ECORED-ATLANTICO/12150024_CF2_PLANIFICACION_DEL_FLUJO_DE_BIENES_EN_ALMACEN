@@ -1,8 +1,8 @@
 export default {
   global: {
-    Name: 'Gestión operativa del flujo de bienes.',
+    Name: 'Gestión operativa del flujo de bienes',
     Description:
-      'El componente formativo desarrolla competencias en manipulación, almacenamiento y distribución de mercancías, abarcando equipos de manipulación, organización de almacenes, así como técnicas de programación y cuantificación de recorridos, y planificación. Su objetivo es optimizar procesos logísticos, garantizando eficiencia, seguridad y reducción de costos en la cadena de suministro.',
+      'El componente formativo desarrolla competencias en manipulación, almacenamiento y distribución de mercancías, abarcando equipos especializados, organización de almacenes, así como técnicas de programación y cuantificación de recorridos, y planificación. Su objetivo es optimizar procesos logísticos, garantizando eficiencia, seguridad y reducción de costos en la cadena de suministro.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -309,11 +309,6 @@ export default {
         'Aula Centro de Formación. (2022). <i>Gestión de Almacén y Logística.</i>',
       link:
         'https://dl.dropboxusercontent.com/scl/fi/ucro9rrtkrv682y7s1qt6/Curso-Gesti-n-de-Almanc-n-y-Log-stica-Aula-Centro-Formaci-n.pdf?rlkey=azxypu2r27s5m21odlj9ymwys&dl=0',
-    },
-    {
-      referencia:
-        'Servicio Nacional de Aprendizaje (SENA). (2021). Zajuna Semilla. <i>121523_2_Virtual-Coordinación de procesos logísticos</i>',
-      link: 'https://zajuna.sena.edu.co/zajuna/course/view.php?id=32450',
     },
   ],
   creditos: [

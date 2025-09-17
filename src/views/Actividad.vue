@@ -20,7 +20,7 @@ export default {
       tema: 'Planificación logística del almacén',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Validar el conocimiento adquirido sobre organización, programación y planificación del almacén.',
+        '<b> Objetivo:</b> validar el conocimiento adquirido sobre organización, programación y planificación del almacén.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!.',
       titulo_reprobado: 'VUELVA A INTENTARLO.',

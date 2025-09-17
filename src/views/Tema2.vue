@@ -15,7 +15,7 @@
               figure
                 img(src='@/assets/curso/temas/tema_2/img_1.png', class="img-fluid")
             .col-12.col-lg-10(data-aos='zoom-in-right')
-               p.mb-0 En el contexto del flujo de bienes, la organización busca garantizar que los productos se muevan de forma continua, eficiente y controlada, minimizando tiempos muertos, errores y costos operativos. Esto implica una planificación estratégica de las zonas funcionales (recepción, almacenamiento, picking, expedición, entre otros), así como la coordinación de actividades para asegurar la correcta entrada, almacenamiento temporal y salida de mercancías conforme a la demanda.
+               p.mb-0 En el contexto del flujo de bienes, la organización busca garantizar que los productos se muevan de forma continua, eficiente y controlada, minimizando tiempos muertos, errores y costos operativos. Esto implica una planificación estratégica de las zonas funcionales (recepción, almacenamiento, <i>picking</i>, expedición, entre otros), así como la coordinación de actividades para asegurar la correcta entrada, almacenamiento temporal y salida de mercancías conforme a la demanda.
 
     separador
 
@@ -87,7 +87,7 @@
           figure.p-0
             img(src="@/assets/curso/temas/tema_2/img_8.png", class="img-fluid").p-0
         .col-12.col-lg-7.p-5
-          p.mb-3 Comprender las técnicas de organización de almacenes es esencial porque permite a las empresas descubrir oportunidades de mejora, aumentar la productividad y tener un control preciso del volumen de los bienes.5
+          p.mb-3 Comprender las técnicas de organización de almacenes es esencial porque permite a las empresas descubrir oportunidades de mejora, aumentar la productividad y tener un control preciso del volumen de los bienes.
           p.mb-0 Además, una adecuada organización contribuye a la seguridad del personal y a la eficiencia del proceso logístico, impactando positivamente en toda la cadena de suministro y en la competitividad de la empresa. A continuación, se describen las principales técnicas implementadas para la organización del almacén:
     
     .row.justify-content-center.align-items-center.mb-5
@@ -105,7 +105,7 @@
             p.ps-5.mb-0 <B>FIFO (<i>First In, First Out</i>):</B> los productos que entran primero salen primero, ideal para evitar caducidades y obsolescencia.
             p.ps-5.mb-0 <B>LIFO (<i>Last In, First Out</i>):</B> los productos más recientes se usan primero, útil en ciertos tipos de inventarios.
             p.ps-5.mb-0 <B>FEFO (<i>First Expired, First Out</i>):</B> prioriza la salida de productos con fecha de caducidad más próxima, fundamental en alimentos y medicamentos.
-          div(titulo="Almacenamiento por bloques.")
+          div(titulo="Almacenamiento por bloques")
             p.ps-5.mb-0 Los productos se agrupan en grandes bloques, a menudo directamente sobre el suelo, facilitando el manejo de grandes volúmenes de mercancía similar.
       .col-8.col-md-4.col-lg-3.mb-lg-3.order-1.order-lg-2.mb-md-3.mb-3
         figure
@@ -123,7 +123,7 @@
                 .col-12.mb-3
                   .tarjeta--7
                 .tarjeta--slider__title.mb-3.text-center.fw-bold Estanterías selectivas
-                .tarjeta--slider__content.text-center Sistema versátil y común que permite acceso directo a cada palé o producto, con opciones de simple o doble profundidad
+                .tarjeta--slider__content.text-center Sistema versátil y común que permite acceso directo a cada palé o producto, con opciones de simple o doble profundidad.
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
@@ -147,7 +147,7 @@
                 .col-12.mb-3
                   .tarjeta--11
                 .tarjeta--slider__title.mb-3.text-center.fw-bold Zonificación del almacén.
-                .tarjeta--slider__content.text-center Dividir el espacio en zonas específicas según tipo de producto, rotación o función (recepción, picking, expedición) para facilitar la gestión y el flujo de bienes.
+                .tarjeta--slider__content.text-center Dividir el espacio en zonas específicas según tipo de producto, rotación o función (recepción, <i>picking</i>, expedición) para facilitar la gestión y el flujo de bienes.
     .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-10.mb-0
         img(src='@/assets/curso/temas/tema_2/img_16.svg', class="img-fluid d-none d-lg-block mb-3")
@@ -185,14 +185,14 @@
               .col-12.col-lg-7.order-1.order-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_2/img_20.png', class="img-fluid")
-          .tarjeta.color-secundario-5.p-4.h-100.tarjeta-tabs-a__tarjeta(titulo="apacitación del personal")
+          .tarjeta.color-secundario-5.p-4.h-100.tarjeta-tabs-a__tarjeta(titulo="Capacitación del personal")
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-4.order-2.order-lg-1.mb-0
                 p.mb-0 Entrenar al equipo en manejo de inventario, seguridad y uso de tecnologías.
               .col-12.col-lg-7.order-1.order-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_2/img_21.png', class="img-fluid")
-          .tarjeta.color-secundario-5.p-4.h-100.tarjeta-tabs-a__tarjeta(titulo="estión de <i>stock</i> eficiente")
+          .tarjeta.color-secundario-5.p-4.h-100.tarjeta-tabs-a__tarjeta(titulo="Gestión de stock eficiente")
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-4.order-2.order-lg-1.mb-0
                 p.mb-0 Realizar inventarios periódicos y evitar <i>sobrestock</i> o roturas de <i>stock</i>.

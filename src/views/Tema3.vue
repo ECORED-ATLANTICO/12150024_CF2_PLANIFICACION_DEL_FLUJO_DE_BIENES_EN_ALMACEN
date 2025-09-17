@@ -107,7 +107,7 @@
         figure.p-0
           img(src="@/assets/curso/temas/tema_3/img_12.png", class="img-fluid")
       .col-12.col-lg-9.mb-0
-        p.mb-0 Las técnicas de cuantificación de recorridos en almacén son métodos y herramientas que permiten medir y optimizar las distancias y tiempos que recorren los operarios durante actividades como el picking, la recepción o la expedición de mercancías. Estas técnicas buscan reducir costos y mejorar la productividad logística.
+        p.mb-0 Las técnicas de cuantificación de recorridos en almacén son métodos y herramientas que permiten medir y optimizar las distancias y tiempos que recorren los operarios durante actividades como el <i>picking</i>, la recepción o la expedición de mercancías. Estas técnicas buscan reducir costos y mejorar la productividad logística.
 
     .titulo-sexto.color-acento-contenido
       h5 Tabla 1.
@@ -123,7 +123,7 @@
             th Ejemplo
         tbody
           tr
-            td(rowspan="3") <B>Diagramas de recorrido.</B>
+            td(rowspan="3") <B>Diagramas de recorrido</B>
             td.text-start <B>Mapas de calor:</B> visualización gráfica de las zonas más transitadas.
             td.text-start(rowspan="3") 
               p.mb-2 <B>Situación:</B> el operario recoge 5 ítems en un almacén de 10x10 m.
@@ -150,15 +150,15 @@
               p.mb-2 2 min en regresar a la zona de despacho.
               p.mb-0 <B>Total:</B> 13 minutos / orden.
           tr
-            td.text-start <B>Sistemas de <i>tracking</i>:</B> uso de RFID, sensores IoT, sistemas de posicionamiento en interiores, wearables para operarios.
+            td.text-start <B>Sistemas de <i>tracking</i>:</B> uso de RFID, sensores IoT, sistemas de posicionamiento en interiores, <i>wearables</i> para operarios.
           tr
             td(rowspan="4") <B>Métricas clave</B> 
             td.text-start <B>Distancia total recorrida:</B> metros / kilómetros por jornada.
             td.text-start(rowspan="4")
-              p.mb-2 Un operario con wearable registra en su turno de 8 horas:
+              p.mb-2 Un operario con <i>wearable</i> registra en su turno de 8 horas:
               p.mb-2 12.7 km recorridos.
               p.mb-2 142 viajes entre pasillos.
-              p.mb-0 8 minutos promedio por tarea de picking.
+              p.mb-0 8 minutos promedio por tarea de <i>picking</i>.
           tr
             td.text-start.bg-table-01 <B>Tiempo de recorrido:</B> por operación o tarea.
           tr
@@ -171,7 +171,7 @@
             td.text-start(rowspan="3") 
               p.mb-2 En un almacén con 10 pasillos paralelos, el sistema WMS genera esta ruta:
               p.mb-2 Recepción → Pasillo 1 (ida) → Pasillo 2 (vuelta) → Pasillo 3 (ida) → [...] → Pasillo 10 → Zona de despacho.
-              p.mb-0 Ahorro estimado: 28% vs rutas aleatorias.
+              p.mb-0 Ahorro estimado: 28 % vs rutas aleatorias.
           tr
             td.text-start <B>Algoritmos de ruteo:</B> método del serpenteo, ruteo por zonas, ruteo por jerarquía de pedidos.
           tr
@@ -270,7 +270,7 @@
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
                   .tarjeta--14
-                .tarjeta--slider__title.mb-3.text-center.fw-bold Órdenes de picking
+                .tarjeta--slider__title.mb-3.text-center.fw-bold Órdenes de <i>picking</i>
                 .tarjeta--slider__content.text-center Preparar pedidos indicando qué productos recoger, cantidades y método (por pedido, lote o zona).
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
