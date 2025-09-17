@@ -93,7 +93,8 @@
         figure(data-aos="zoom-in-right")
           img(src='@/assets/curso/temas/tema_3/img_10.svg', class="img-fluid d-none d-lg-block mb-3", alt="La figura presenta los principales tipos de programación de almacén: por órdenes de pedido, por rutas de picking, por oleadas, en tiempo real y por turnos, cada uno con criterios y aplicaciones específicas según el tipo de operación.")
           img(src='@/assets/curso/temas/tema_3/img_11.svg', class="img-fluid d-block d-lg-none mb-3", alt="La figura presenta los principales tipos de programación de almacén: por órdenes de pedido, por rutas de picking, por oleadas, en tiempo real y por turnos, cada uno con criterios y aplicaciones específicas según el tipo de operación.")
-          figcaption(data-aos="zoom-in-right") <b>Fuente:</b> SENA, 2025.
+        figcaption(data-aos="zoom-in-right") 
+          <b>Fuente:</b> SENA, 2025.
       .col-12.col-lg-10.mb-0
 
         separador

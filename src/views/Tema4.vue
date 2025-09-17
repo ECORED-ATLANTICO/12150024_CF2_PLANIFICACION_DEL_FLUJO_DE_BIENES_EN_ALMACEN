@@ -82,7 +82,8 @@
         figure.mb-5(data-aos="zoom-in-right")
           img(src='@/assets/curso/temas/tema_4/img_10.svg', class="img-fluid d-none d-lg-block mb-3", alt="La figura muestra los factores clave de la planificación de almacén: volumen de los bienes, rotación de stock, tipo de bienes, tecnología disponible y requerimientos legales y de seguridad.")
           img(src='@/assets/curso/temas/tema_4/img_11.svg', class="img-fluid d-block d-lg-none mb-3", alt="La figura muestra los factores clave de la planificación de almacén: volumen de los bienes, rotación de stock, tipo de bienes, tecnología disponible y requerimientos legales y de seguridad.")
-          figcaption(data-aos="zoom-in-right") <b>Fuente:</b> SENA, 2025.
+        figcaption(data-aos="zoom-in-right") 
+          <b>Fuente:</b> SENA, 2025.
       
         p.mb-0 Es importante tener en cuenta los siguientes factores que influyen al momento de realizar la planificación del almacén:
 

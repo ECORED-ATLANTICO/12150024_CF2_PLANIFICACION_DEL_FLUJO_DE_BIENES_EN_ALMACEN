@@ -44,7 +44,8 @@
         figure(data-aos="zoom-in-right")
           img(src='@/assets/curso/temas/tema_1/img_4.svg', class="img-fluid d-none d-lg-block mb-3" alt="En la figura 1 se ilustra el esquema de planificación de frecuencias y horarios, herramienta para lograr la precisión y optimizar viajes y entregas. Sus componentes son:· Utilización de la flota y la fuerza laboral. · Minimización de costos. · Satisfacción del cliente. · Sincronización de la cadena de suministro. · Gestión de la congestión.")
           img(src='@/assets/curso/temas/tema_1/img_5.svg', class="img-fluid d-block d-lg-none mb-3" alt="En la figura 1 se ilustra el esquema de planificación de frecuencias y horarios, herramienta para lograr la precisión y optimizar viajes y entregas. Sus componentes son:· Utilización de la flota y la fuerza laboral. · Minimización de costos. · Satisfacción del cliente. · Sincronización de la cadena de suministro. · Gestión de la congestión.")
-          figcaption(data-aos="zoom-in-right") <b>Fuente:</b> SENA, 2025.
+        figcaption(data-aos="zoom-in-right") 
+          <b>Fuente:</b> SENA, 2025.
       .col-12.col-lg-10.mb-5
         p.mb-0 En la gestión del flujo de bienes se requieren establecer aquellas técnicas de manipulación más favorables de acuerdo con las características del bien, los medios o equipos de manipulación necesarios para mover y trasladar mercancías dentro del almacén y los medios o equipos de almacenamiento, que hace referencia a los estantes, cajas, armarios, suelos, silos, contenedores, etc. que sirven para guardar mercancías requeridas posteriormente. A continuación, se describen las diferentes técnicas para la manipulación de bienes:
       .col-12.col-lg-10.mb-3
@@ -124,7 +125,8 @@
         figure(data-aos="zoom-in-right")
           img(src='@/assets/curso/temas/tema_1/img_12.svg', class="img-fluid d-none d-lg-block mb-3" alt="En la figura 1 se ilustra el esquema de planificación de frecuencias y horarios, herramienta para lograr la precisión y optimizar viajes y entregas. Sus componentes son:· Utilización de la flota y la fuerza laboral. · Minimización de costos. · Satisfacción del cliente. · Sincronización de la cadena de suministro. · Gestión de la congestión.")
           img(src='@/assets/curso/temas/tema_1/img_13.svg', class="img-fluid d-block d-lg-none mb-3" alt="En la figura 1 se ilustra el esquema de planificación de frecuencias y horarios, herramienta para lograr la precisión y optimizar viajes y entregas. Sus componentes son:· Utilización de la flota y la fuerza laboral. · Minimización de costos. · Satisfacción del cliente. · Sincronización de la cadena de suministro. · Gestión de la congestión.")
-          figcaption(data-aos="zoom-in-right") <b>Fuente:</b> SENA, 2025.
+        figcaption(data-aos="zoom-in-right") 
+          <b>Fuente:</b> SENA, 2025.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
