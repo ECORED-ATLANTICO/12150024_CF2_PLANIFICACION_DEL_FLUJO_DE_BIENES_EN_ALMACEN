@@ -166,7 +166,7 @@
       .col-12.col-lg-10.mb-5
         p.mb-0 Adoptar buenas prácticas en la organización de almacenes es esencial para mejorar la eficiencia operativa, disminuir costos y elevar la satisfacción del cliente. Estas prácticas facilitan un uso óptimo del espacio y un control preciso del inventario, lo que agiliza la localización y rotación de productos. Además, promueven un entorno de trabajo seguro y ordenado para el personal, y permiten una gestión logística más efectiva mediante controles rigurosos y evaluaciones constantes. Varios aspectos importantes se describen a continuación:
       .col-12.col-lg-10.mb-lg-0.mb-0
-        TabsA.mb-0.tarjeta-tabs-a.color-secundario-10
+        TabsA.mb-0.tarjeta-tabs-a.color-secundario-10.uno
           .tarjeta.color-secundario-5.p-4.h-100.tarjeta-tabs-a__tarjeta(titulo="Mantener orden y limpieza (5S)")
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-4.order-2.order-lg-1.mb-0
