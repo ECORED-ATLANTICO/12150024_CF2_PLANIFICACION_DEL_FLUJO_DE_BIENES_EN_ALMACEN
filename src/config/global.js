@@ -103,7 +103,7 @@ export default {
           },
           {
             numero: '3.4',
-            titulo: 'TÓrdenes',
+            titulo: 'Órdenes',
             hash: 't_3_4',
           },
         ],
@@ -353,7 +353,7 @@ export default {
       autores: [
         {
           nombre: 'Luis Gabriel Urueta ',
-          cargo: 'Diseñador web',
+          cargo: 'Diseñador <i>web</i>',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {

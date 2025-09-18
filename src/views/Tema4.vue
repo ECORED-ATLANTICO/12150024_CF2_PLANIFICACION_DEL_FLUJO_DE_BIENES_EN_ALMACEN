@@ -75,7 +75,8 @@
                   .tarjeta--24
                 .tarjeta--slider__title.mb-3.text-center.fw-bold Garantizar la seguridad
                 .tarjeta--slider__content.text-center Cumplir con normativas de seguridad para trabajadores y productos.
-            
+        
+        p.mb-3 Es importante tener en cuenta los siguientes factores que influyen al momento de realizar la planificación del almacén:    
         .titulo-sexto.color-acento-contenido.mb-3(data-aos="zoom-in-right")
           h5 Figura 4.
           span Factores clave de la planificación de almacén
@@ -195,14 +196,15 @@
 
         separador
 
+    .row.justify-content-center.align-items-center.mb-0
+      .col-12.col-lg-10.mb-3(data-aos="zoom-in-right")
         #t_4_4.titulo-segundo.color-acento-contenido
           .h2(data-aos="fade-right") 4.4	Herramientas tecnológicas
-        .mb-3
-
+        .mb-0
         p.mb-0 La tecnología desempeña un papel fundamental en la planificación y gestión moderna de almacenes. Entre las principales herramientas destacan:
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-lg-8.order-2.order-lg-1.mb-0
+      .col-12.col-lg-6.order-2.order-lg-1.mb-0
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--color-secundario-10")
           div(titulo="<i>Software</i> de gestión de almacenes (SGA/WMS)")
             p.ps-5.mb-0 Automatiza el control de inventarios, coordina procesos, sincroniza tareas y permite el seguimiento en tiempo real de bienes y operarios.
@@ -216,9 +218,9 @@
             p.ps-5.mb-0 Facilitan la preparación de pedidos y otras tareas mediante instrucciones auditivas, aumentando la productividad y precisión.
           div(titulo="Integración con IoT (internet de las cosas)")
             p.ps-5.mb-0 Permite la conexión y gestión inteligente de equipos y sistemas dentro del almacén.
-      .col-8.col-md-4.col-lg-3.mb-lg-3.order-1.order-lg-2.mb-md-3.mb-3
+      .col-8.col-md-4.col-lg-4.mb-lg-3.order-1.order-lg-2.mb-md-3.mb-3
         figure
-          img.mb-0(src="@/assets/curso/temas/tema_4/img_18.png", class="img-fluid")
+          img.mb-0(src="@/assets/curso/temas/tema_4/img_18.png", class="img-fluid" heigth="120%").h-100
     
     .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-10.mb-5(data-aos="zoom-in-right")
