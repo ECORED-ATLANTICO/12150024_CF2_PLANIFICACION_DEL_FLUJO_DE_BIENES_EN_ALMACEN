@@ -169,49 +169,49 @@
         TabsA.mb-0.tarjeta-tabs-a.color-secundario-10.uno
           .tarjeta.color-secundario-5.p-4.h-100.tarjeta-tabs-a__tarjeta(titulo="Mantener orden y limpieza (5S)")
             .row.justify-content-center.align-items-center.mb-0
-              .col-12.col-lg-10.col-xl-5.order-2.order-xl-1.mb-0
+              .col-12.col-lg-10.col-xl-5.order-1.order-xl-2.mb-3
                 p.mb-0 <B><i>Seiri</i> (clasificar):</B> eliminar lo innecesario.
                 p.mb-0 <B><i>Seiton</i> (organizar):</B> todo en su lugar.
                 p.mb-0 <B><i>Seiso</i> (limpiar):</B> mantener áreas libres de obstáculos.
                 p.mb-0 <B><i>Seiketsu</i> (estandarizar):</B> protocolos claros.
                 p.mb-0 <B><i>Shitsuke</i> (disciplina):</B> cumplimiento constante.
-              .col-12.col-lg-8.col-xl-7.order-1.order-xl-2.mb-xl-0.mb-3
+              .col-10.col-lg-8.col-xl-7.order-1.order-xl-2.mb-xl-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_2/img_19.png', class="img-fluid")
           .tarjeta.color-secundario-5.p-4.h-100.tarjeta-tabs-a__tarjeta(titulo="Rotulación y señalización clara")
             .row.justify-content-center.align-items-center.mb-0
-              .col-12.col-lg-4.order-2.order-lg-1.mb-0
+              .col-12.col-lg-10.col-xl-5.order-1.order-xl-2.mb-3
                 p.mb-0 Identificar pasillos, estanterías y bienes con etiquetas visibles.
-              .col-12.col-lg-7.order-1.order-lg-2.mb-lg-0.mb-3
+              .col-10.col-lg-8.col-xl-7.order-1.order-xl-2.mb-xl-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_2/img_20.png', class="img-fluid")
           .tarjeta.color-secundario-5.p-4.h-100.tarjeta-tabs-a__tarjeta(titulo="Capacitación del personal")
             .row.justify-content-center.align-items-center.mb-0
-              .col-12.col-lg-4.order-2.order-lg-1.mb-0
+              .col-12.col-lg-10.col-xl-5.order-1.order-xl-2.mb-3
                 p.mb-0 Entrenar al equipo en manejo de inventario, seguridad y uso de tecnologías.
-              .col-12.col-lg-7.order-1.order-lg-2.mb-lg-0.mb-3
+              .col-10.col-lg-8.col-xl-7.order-1.order-xl-2.mb-xl-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_2/img_21.png', class="img-fluid")
           .tarjeta.color-secundario-5.p-4.h-100.tarjeta-tabs-a__tarjeta(titulo="Gestión de stock eficiente")
             .row.justify-content-center.align-items-center.mb-0
-              .col-12.col-lg-4.order-2.order-lg-1.mb-0
+              .col-12.col-lg-10.col-xl-5.order-1.order-xl-2.mb-3
                 p.mb-0 Realizar inventarios periódicos y evitar <i>sobrestock</i> o roturas de <i>stock</i>.
-              .col-12.col-lg-7.order-1.order-lg-2.mb-lg-0.mb-3
+              .col-10.col-lg-8.col-xl-7.order-1.order-xl-2.mb-xl-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_2/img_22.png', class="img-fluid")
           .tarjeta.color-secundario-5.p-4.h-100.tarjeta-tabs-a__tarjeta(titulo="Seguridad y prevención de riesgos")
             .row.justify-content-center.align-items-center.mb-0
-              .col-12.col-lg-4.order-2.order-lg-1.mb-0
+              .col-12.col-lg-10.col-xl-5.order-1.order-xl-2.mb-3
                 p.mb-0 Uso de equipo de protección personal (EPP).
                 p.mb-0 Correcto apilamiento de mercancías para evitar accidentes.
-              .col-12.col-lg-7.order-1.order-lg-2.mb-lg-0.mb-3
+              .col-10.col-lg-8.col-xl-7.order-1.order-xl-2.mb-xl-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_2/img_23.png', class="img-fluid")
           .tarjeta.color-secundario-5.p-4.h-100.tarjeta-tabs-a__tarjeta(titulo="Mejora continua (Kaizen)")
             .row.justify-content-center.align-items-center.mb-0
-              .col-12.col-lg-4.order-2.order-lg-1.mb-0
+              .col-12.col-lg-10.col-xl-5.order-1.order-xl-2.mb-3
                 p.mb-0 Evaluar procesos y aplicar ajustes para optimizar el flujo de bienes.
-              .col-12.col-lg-7.order-1.order-lg-2.mb-lg-0.mb-3
+              .col-10.col-lg-8.col-xl-7.order-1.order-xl-2.mb-xl-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_2/img_24.png', class="img-fluid")
     
