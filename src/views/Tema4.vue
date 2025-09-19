@@ -112,9 +112,9 @@
               p <b>Fuente:</b>  SENA, 2025.
             thead
               tr
-              th Enfoque
-              th Técnicas de planificación
-              th Descripción
+                th.col-2.col-lg-2 Enfoque
+                th.col-3.col-lg-3 Técnicas de planificación
+                th.col-5.col-lg-5 Descripción
             tbody
               tr
                 td(rowspan="4") <B>Diseño de <i>layout</i> (distribución en planta)</B>

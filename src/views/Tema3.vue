@@ -76,12 +76,12 @@
       .h2(data-aos="fade-right") 3.2	Tipos de programación
     .mb-3
 
-    .tarjeta.color-secundario-5.rounded-0.p-0.mb-5
+    .tarjeta.color-secundario-5.rounded-0.p-lg-0.p-3.mb-5
       .row.justify-content-center.align-items-center.mb-0
         .col-12.col-lg-5.mb-lg-0.mb-3.p-0
-          figure.p-2
+          figure
             img(src="@/assets/curso/temas/tema_3/img_9.png", class="img-fluid").p-0
-        .col-12.col-lg-7.p-5
+        .col-12.col-lg-7.p-lg-3.p-5
           p.mb-3 Conocer los tipos de programación o <i>software</i> de gestión de almacén es fundamental para optimizar la operación logística y la administración del inventario en cualquier empresa que maneje almacenes.
           p.mb-0 Dependiendo de las necesidades del almacén, se pueden aplicar diferentes tipos de programación y sistemas que optimicen el proceso.
 
@@ -119,9 +119,9 @@
           p <b>Fuente:</b>  SENA, 2025.
         thead
           tr
-            th Técnicas
+            th.col-3.col-lg-3 Técnicas
             th Descripción
-            th Ejemplo
+            th.col-5.col-lg-5 Ejemplo
         tbody
           tr
             td(rowspan="3") <B>Diagramas de recorrido</B>

@@ -81,12 +81,12 @@
       .h2(data-aos="fade-right") 2.2	Técnicas de organización
     .mb-3
 
-    .tarjeta.color-terciario-10.rounded-0.p-0.mb-5
+    .tarjeta.color-terciario-10.rounded-0.p-lg-0.p-3.mb-5
       .row.justify-content-center.align-items-center.mb-0
         .col-12.col-lg-5.mb-lg-0.mb-3.p-0
           figure.p-0
             img(src="@/assets/curso/temas/tema_2/img_8.png", class="img-fluid").p-0
-        .col-12.col-lg-7.p-5
+        .col-12.col-lg-7.p-lg-3.p-5
           p.mb-3 Comprender las técnicas de organización de almacenes es esencial porque permite a las empresas descubrir oportunidades de mejora, aumentar la productividad y tener un control preciso del volumen de los bienes.
           p.mb-0 Además, una adecuada organización contribuye a la seguridad del personal y a la eficiencia del proceso logístico, impactando positivamente en toda la cadena de suministro y en la competitividad de la empresa. A continuación, se describen las principales técnicas implementadas para la organización del almacén:
     
@@ -169,13 +169,13 @@
         TabsA.mb-0.tarjeta-tabs-a.color-secundario-10.uno
           .tarjeta.color-secundario-5.p-4.h-100.tarjeta-tabs-a__tarjeta(titulo="Mantener orden y limpieza (5S)")
             .row.justify-content-center.align-items-center.mb-0
-              .col-12.col-lg-12.order-2.order-lg-1.mb-0
+              .col-12.col-lg-10.col-xl-5.order-2.order-xl-1.mb-0
                 p.mb-0 <B><i>Seiri</i> (clasificar):</B> eliminar lo innecesario.
                 p.mb-0 <B><i>Seiton</i> (organizar):</B> todo en su lugar.
                 p.mb-0 <B><i>Seiso</i> (limpiar):</B> mantener áreas libres de obstáculos.
                 p.mb-0 <B><i>Seiketsu</i> (estandarizar):</B> protocolos claros.
                 p.mb-0 <B><i>Shitsuke</i> (disciplina):</B> cumplimiento constante.
-              .col-12.col-lg-10.order-1.order-lg-2.mb-lg-0.mb-3
+              .col-12.col-lg-8.col-xl-7.order-1.order-xl-2.mb-xl-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_2/img_19.png', class="img-fluid")
           .tarjeta.color-secundario-5.p-4.h-100.tarjeta-tabs-a__tarjeta(titulo="Rotulación y señalización clara")
