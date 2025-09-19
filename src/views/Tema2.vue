@@ -112,12 +112,12 @@
           img.mb-0(src="@/assets/curso/temas/tema_2/img_9.png", class="img-fluid")
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-8.col-lg-4.mb-lg-0.mb-3
+      .col-8.col-lg-6.col-xl-4.mb-3
         figure
           img(src='@/assets/curso/temas/tema_2/img_10.png', class="img-fluid")
-      .col-12.col-lg-8.mb-0
-        .custom-slider.p-5.p-sm-3(data-aos="zoom-in-right")
-          SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-6")
+      .col-12.col-lg-12.col-xl-8.mb-0
+        .custom-slider.p-2.p-sm-3(data-aos="zoom-in-right")
+          SlyderF(columnas="col-12 col-sm-12 col-md-12 col-lg-6")
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3

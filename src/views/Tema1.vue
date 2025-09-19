@@ -150,9 +150,9 @@
         p.mb-0 A continuación, encontraremos los diferentes equipos que se utilizan para la manipulación de la carga:
     
     .row.justify-content-center.align-items-center.mb-0
-      .col-12.col-lg-8.order-2.order-lg-1.mb-0
-        .custom-slider.p-5.p-sm-3(data-aos="zoom-in-right")
-          SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-6")
+      .col-12.col-lg-12.col-xl-8.order-2.order-lg-2.order-xl-1.mb-0
+        .custom-slider.p-2.p-sm-3(data-aos="zoom-in-right")
+          SlyderF(columnas="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6")
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
@@ -189,7 +189,7 @@
                   .tarjeta--6
                 .tarjeta--slider__title.mb-3.text-center.fw-bold Sistemas automatizados.
                 .tarjeta--slider__content.text-center Cintas transportadoras, AGV, sistemas de <i>picking</i> robotizado, almacenes automáticos. Mejoran la eficiencia y reducen la intervención humana.
-      .col-8.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
+      .col-8.col-lg-6.col-xl-4.order-1.order-lg-1.order-xl-2.mb-lg-0.mb-3
         figure
           img(src='@/assets/curso/temas/tema_1/img_21.png', class="img-fluid")
 

@@ -38,34 +38,34 @@
         figure
           img(src='@/assets/curso/temas/tema_3/img_3.png', class="img-fluid") 
       .col-12.col-lg-7.mb-5(data-aos="zoom-in-right")
-        .tarjeta.tarjeta--fondo__slider.p-4.mb-3
+        .tarjeta.tarjeta--fondo__slider.p-2.mb-3
           SlyderA(tipo="a").tarjeta.tarjeta--blanca.p-5
             .row.justify-content-center.align-items-center
               .col-10.col-lg-7.order-2.order-lg-1.mb-0
                 h5 Maximizar la eficiencia operativa.
                 p.mb-0 Minimizar tiempos muertos y movimientos innecesarios.
-              .col-8.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
+              .col-6.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_3/img_5.png')
             .row.justify-content-center.align-items-center
               .col-10.col-lg-7.order-2.order-lg-1.mb-0
                 h5 Reducir costos.
                 p.mb-0 Optimizar el uso de espacio y recursos humanos.
-              .col-8.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
+              .col-6.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_3/img_6.png')
             .row.justify-content-center.align-items-center
               .col-10.col-lg-7.order-2.order-lg-1.mb-0
                 h5 Mejorar la precisión en inventarios.
                 p.mb-0 Evitar errores en <i>picking</i> y almacenamiento.
-              .col-8.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
+              .col-6.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_3/img_7.png')
             .row.justify-content-center.align-items-center
               .col-10.col-lg-7.order-2.order-lg-1.mb-0
                 h5 Garantizar la disponibilidad de productos.
                 p.mb-0 Asegurar que los artículos estén accesibles cuando se necesiten.
-              .col-8.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
+              .col-6.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_3/img_8.png')
         p.mb-0 Antes de iniciar con la programación del almacén, es necesario tener en cuenta factores clave como el volumen de mercancías, el tipo de bienes a manejar, el <i>layout</i> o distribución de las zonas del almacén y la tecnología disponible, incluyendo sistemas de gestión WMS y procesos de automatización, ya que estos elementos determinan la eficiencia y organización de las operaciones logísticas.
@@ -252,9 +252,9 @@
         p.mb-0 Conocer los tipos de órdenes en un almacén es fundamental para garantizar una gestión logística eficiente y precisa, ya que cada tipo de orden responde a una función específica dentro del flujo operativo y contribuye a la optimización de recursos y tiempos. Esta comprensión permite organizar las tareas de manera estructurada, evitar errores y mejorar la trazabilidad de los productos.
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-lg-8.order-2.order-lg-1.mb-0
+      .col-12.col-lg-12.col-xl-8.order-2.order-lg-2.order-xl-1.mb-0
         .custom-slider.p-5.p-sm-3(data-aos="zoom-in-right")
-          SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-6")
+          SlyderF(columnas="col-12 col-sm-12 col-md-12 col-lg-6")
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
@@ -291,7 +291,7 @@
                   .tarjeta--17
                 .tarjeta--slider__title.mb-3.text-center.fw-bold Órdenes de <i>cross-docking</i>
                 .tarjeta--slider__content.text-center Mover productos directamente de recepción a despacho sin pasar por almacenamiento.
-      .col-8.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
+      .col-8.col-lg-6.col-xl-4.order-1.order-lg-1.order-xl-2.mb-lg-0.mb-3
         figure
           img(src='@/assets/curso/temas/tema_3/img_21.png', class="img-fluid")
 

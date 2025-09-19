@@ -30,8 +30,8 @@
             .col-lg-2.d-lg-block.d-none
               figure
                 img(src='@/assets/curso/temas/tema_4/img_2.png', class="img-fluid")
-        
-        .custom-slider--color-fondo-1.p-5.p-sm-3.mb-5(data-aos="zoom-in-right")
+      .col-lg-12
+        .custom-slider--color-fondo-1.p-2.p-sm-3.mb-5(data-aos="zoom-in-right")
           SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-4")
             .tarjeta--color-fondo-1.h-95
               .row.justify-content-center.align-items-center.mb-0
