@@ -79,7 +79,7 @@
     .tarjeta.color-secundario-5.rounded-0.p-0.mb-5
       .row.justify-content-center.align-items-center.mb-0
         .col-12.col-lg-5.mb-lg-0.mb-3.p-0
-          figure.p-0
+          figure.p-2
             img(src="@/assets/curso/temas/tema_3/img_9.png", class="img-fluid").p-0
         .col-12.col-lg-7.p-5
           p.mb-3 Conocer los tipos de programación o <i>software</i> de gestión de almacén es fundamental para optimizar la operación logística y la administración del inventario en cualquier empresa que maneje almacenes.
