@@ -150,16 +150,17 @@
                 .tarjeta--slider__content.text-center Dividir el espacio en zonas específicas según tipo de producto, rotación o función (recepción, <i>picking</i>, expedición) para facilitar la gestión y el flujo de bienes.
     
     .row.justify-content-center.align-items-center.mb-0
-          .col-12.col-lg-10.mb-0
-            .cita-decorada
-              blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-5
-                .row.justify-content-center.align-items-center
-                  .col-6.col-lg-3.order-2.order-lg-1
-                    img(src='@/assets/curso/temas/tema_2/img_16.png',  class="img-fluid cita-decorada__imagen-flotante-1")
-                  .col-12.col-lg-1.order-1.order-lg-1.d-none.d-lg-block
-                    img(src='@/assets/curso/temas/tema_2/img_17.png',  class="img-fluid cita-decorada__imagen-flotante-1")
-                  .col-7.col-lg-8.order-1.order-lg-2
-                    p.cita-decorada__texto Estas técnicas pueden combinarse y adaptarse según las características del producto, volumen de inventario, tipo de almacén y necesidades logísticas, siempre con el fin de optimizar el flujo de bienes y la eficiencia operativa.
+      .col-12.col-lg-10.mb-0
+        .cita-decorada
+          blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-5
+            .row.justify-content-center.align-items-center
+              .col-8.col-lg-3.order-2.order-lg-1
+                img(src='@/assets/curso/temas/tema_2/img_16.png',  class="img-fluid cita-decorada__imagen-flotante-1")
+              .col-2.col-lg-1.order-3.order-lg-1
+                img(src='@/assets/curso/temas/tema_2/img_17.png',  class="img-fluid cita-decorada__imagen-flotante-1 d-none d-lg-block")
+                img(src='@/assets/curso/temas/tema_2/img_26.png',  class="img-fluid cita-decorada__imagen-flotante-1 d-block d-lg-none")
+              .col-10.col-lg-8.order-1.order-lg-3.mb-lg-0.mb-3
+                p.cita-decorada__texto Estas técnicas pueden combinarse y adaptarse según las características del producto, volumen de inventario, tipo de almacén y necesidades logísticas, siempre con el fin de optimizar el flujo de bienes y la eficiencia operativa.
     separador
 
     #t_2_3.titulo-segundo.color-acento-contenido
