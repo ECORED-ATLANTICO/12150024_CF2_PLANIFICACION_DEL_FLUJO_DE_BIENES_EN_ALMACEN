@@ -154,12 +154,12 @@
         .cita-decorada
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-5
             .row.justify-content-center.align-items-center
-              .col-8.col-lg-3.order-2.order-lg-1
+              .col-8.col-lg-4.order-2.order-lg-1
                 img(src='@/assets/curso/temas/tema_2/img_16.png',  class="img-fluid cita-decorada__imagen-flotante-1")
-              .col-2.col-lg-1.order-3.order-lg-1
+              .col-3.col-lg-1.order-3.order-lg-1
                 img(src='@/assets/curso/temas/tema_2/img_17.png',  class="img-fluid cita-decorada__imagen-flotante-1 d-none d-lg-block")
                 img(src='@/assets/curso/temas/tema_2/img_26.png',  class="img-fluid cita-decorada__imagen-flotante-1 d-block d-lg-none")
-              .col-10.col-lg-8.order-1.order-lg-3.mb-lg-0.mb-3
+              .col-10.col-lg-7.order-1.order-lg-3.mb-lg-0.mb-3
                 p.cita-decorada__texto Estas técnicas pueden combinarse y adaptarse según las características del producto, volumen de inventario, tipo de almacén y necesidades logísticas, siempre con el fin de optimizar el flujo de bienes y la eficiencia operativa.
     separador
 
