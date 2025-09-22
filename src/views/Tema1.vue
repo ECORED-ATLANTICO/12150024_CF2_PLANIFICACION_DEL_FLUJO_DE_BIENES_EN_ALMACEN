@@ -12,7 +12,7 @@
         .col-12.col-lg-5.mb-lg-0.mb-3
           figure
             img(src="@/assets/curso/temas/tema_1/img_1.png", class="img-fluid")
-        .col-12.col-lg-7.p-lg-3.p-3.mb-0
+        .col-12.col-lg-7.p-lg-3.p-4.mb-0
           p.mb-0 La manipulación de bienes es crucial en la logística porque impacta directamente en la eficiencia operativa, la seguridad y la rentabilidad de las empresas. Un manejo adecuado de los bienes evita daños físicos a los productos, lo que reduce pérdidas económicas y garantiza que los clientes reciban productos en óptimas condiciones, fortaleciendo así la confianza y la reputación empresarial.
 
     separador
