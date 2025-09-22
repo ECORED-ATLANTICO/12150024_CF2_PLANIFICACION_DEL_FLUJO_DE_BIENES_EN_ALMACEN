@@ -300,11 +300,12 @@
             .cita-decorada
               blockquote.cita-decorada__caja.cita-decorada__caja--fondo-2.p-5
                 .row.justify-content-center.align-items-center
-                  .col-4.col-lg-3.order-2.order-lg-1
+                  .col-8.col-lg-3.order-2.order-lg-1
                     img(src='@/assets/curso/temas/tema_3/img_22.png',  class="img-fluid cita-decorada__imagen-flotante-1")
-                  .col-1.col-lg-1.order-1.order-lg-1.d-none.d-lg-block
-                    img(src='@/assets/curso/temas/tema_3/img_23.png',  class="img-fluid cita-decorada__imagen-flotante-1")
-                  .col-8.col-lg-8.order-3.order-lg-2.p-3
+                  .col-3.col-lg-1.order-3.order-lg-1
+                    img(src='@/assets/curso/temas/tema_3/img_23.png',  class="img-fluid cita-decorada__imagen-flotante-1 d-none d-lg-block")
+                    img(src='@/assets/curso/temas/tema_3/img_24.png',  class="img-fluid cita-decorada__imagen-flotante-1 d-block d-lg-none")
+                  .col-10.col-lg-8.order-1.order-lg-2.p-3
                     p.cita-decorada__texto Cada tipo de orden contiene información estructurada que permite evitar errores y estandarizar procesos, siendo su detalle preciso clave para garantizar la trazabilidad, al identificar quién, cuándo y cómo se ejecutó, mejorar la eficiencia mediante la reducción de tiempos muertos y reprocesos, y facilitar la integración con sistemas como WMS o ERP.
 
 </template>
