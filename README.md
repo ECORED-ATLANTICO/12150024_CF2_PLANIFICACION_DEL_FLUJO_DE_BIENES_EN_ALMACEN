@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[[https://ecored-atlantico.github.io/12150024_CF02_Planificacion_del_flujo_de_bienes_en_almacen/](https://ecored-atlantico.github.io/12150024_CF02_Planificacion_del_flujo_de_bienes_en_almacen/)]
+[[https://ecored-atlantico.github.io/12150024_CF2_PLANIFICACION_DEL_FLUJO_DE_BIENES_EN_ALMACEN/](https://ecored-atlantico.github.io/12150024_CF2_PLANIFICACION_DEL_FLUJO_DE_BIENES_EN_ALMACEN/)]
 
 #
 
