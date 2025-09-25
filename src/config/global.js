@@ -341,18 +341,13 @@ export default {
           cargo: 'Evaluadora instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
-        {
-          nombre: 'Jair Coll Gallardo',
-          cargo: 'Evaluador instruccional',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
-        },
       ],
     },
     {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Luis Gabriel Urueta ',
+          nombre: 'Carmen Alicia Martínez Torres',
           cargo: 'Diseñador <i>web</i>',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },

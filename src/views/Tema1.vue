@@ -176,7 +176,7 @@
                 .col-12.mb-3
                   .tarjeta--4
                 .tarjeta--slider__title.mb-3.text-center.fw-bold Equipos de almacenamiento
-                .tarjeta--slider__content.text-center Estanterías selectivas y dinámicas, racks móviles, contenedores apilables. Facilitan la organización y acceso rápido a la mercancía.
+                .tarjeta--slider__content.text-center Estanterías selectivas y dinámicas, <i>racks</i> móviles, contenedores apilables. Facilitan la organización y acceso rápido a la mercancía.
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3

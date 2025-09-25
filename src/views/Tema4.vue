@@ -224,7 +224,7 @@
     
     .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-10.mb-5(data-aos="zoom-in-right")
-        p Estas soluciones tecnológicas ayudan a reducir errores, mejorar la eficiencia, asegurar la trazabilidad y adaptarse rápidamente a cambios en la demanda o el entorno logístico
+        p Estas soluciones tecnológicas ayudan a reducir errores, mejorar la eficiencia, asegurar la trazabilidad y adaptarse rápidamente a cambios en la demanda o el entorno logístico.
 
         separador
 
