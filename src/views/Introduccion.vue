@@ -17,10 +17,10 @@
     
     p.mb-5 Posteriormente, se desarrollan estrategias de organización y programación de almacenes, incluyendo técnicas de distribución, cuantificación de recorridos y tipos de órdenes. Este enfoque integral busca mejorar la productividad, reducir tiempos y costos, y garantizar un flujo ágil de mercancías. Al dominar estos procesos, los participantes estarán capacitados para implementar soluciones logísticas eficaces, adaptables a distintos entornos operativos, contribuyendo así a la competitividad empresarial.
 
-    figure
+    figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/pwHV6VfWyN0?si=nl7cxdioIoX42gYa" title="Gestión operativa del flujo de bienes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+      figcaption Video: Gestión operativa del flujo de bienes
 </template>
 
 <script>

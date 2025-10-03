@@ -200,7 +200,7 @@
               .col-10.col-lg-8.col-xl-7.order-1.order-xl-2.mb-xl-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_2/img_21.png', class="img-fluid")
-          .tarjeta.color-secundario-5.p-4.h-100.tarjeta-tabs-a__tarjeta(titulo="Gestión de stock eficiente")
+          .tarjeta.color-secundario-5.p-4.h-100.tarjeta-tabs-a__tarjeta(titulo="Gestión de <i>stock</i> eficiente")
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-10.col-xl-5.order-1.order-xl-2.mb-3
                 p.mb-0 Realizar inventarios periódicos y evitar <i>sobrestock</i> o roturas de <i>stock</i>.

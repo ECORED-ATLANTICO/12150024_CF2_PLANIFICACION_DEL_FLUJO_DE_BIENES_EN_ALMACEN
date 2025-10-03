@@ -49,20 +49,20 @@
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
                   .tarjeta--20
-                .tarjeta--slider__title.mb-3.text-center.fw-bold Maximizar el espacio disponible
-                .tarjeta--slider__content.text-center Aprovechar al máximo el área de almacenamiento mediante una disposición inteligente de estanterías, <i>racks</i> y zonas de trabajo.
+                .tarjeta--slider__title.mb-3.text-center.fw-bold Minimizar costos operativos
+                .tarjeta--slider__content.text-center Reducir gastos en mano de obra, energía y almacenamiento mediante procesos eficientes.
             .tarjeta--color-fondo-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
                   .tarjeta--21
-                .tarjeta--slider__title.mb-3.text-center.fw-bold Optimizar el flujo de materiales
-                .tarjeta--slider__content.text-center Reducir tiempos de movimiento y manipulación de productos mediante una distribución lógica.
+                .tarjeta--slider__title.mb-3.text-center.fw-bold Mejorar la precisión en inventarios
+                .tarjeta--slider__content.text-center Evitar pérdidas, roturas o caducidades mediante un control adecuado.
             .tarjeta--color-fondo-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
                   .tarjeta--22
-                .tarjeta--slider__title.mb-3.text-center.fw-bold Minimizar costos operativos
-                .tarjeta--slider__content.text-center Reducir gastos en mano de obra, energía y almacenamiento mediante procesos eficientes.
+                .tarjeta--slider__title.mb-3.text-center.fw-bold Garantizar la seguridad
+                .tarjeta--slider__content.text-center Cumplir con normativas de seguridad para trabajadores y productos.
             .tarjeta--color-fondo-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
@@ -86,8 +86,6 @@
         figcaption(data-aos="zoom-in-right") 
           <b>Fuente:</b> SENA, 2025.
       
-        p.mb-0 Es importante tener en cuenta los siguientes factores que influyen al momento de realizar la planificación del almacén:
-
         separador
 
         #t_4_2.titulo-segundo.color-acento-contenido

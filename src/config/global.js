@@ -173,7 +173,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CFA2_12150024_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -309,6 +309,16 @@ export default {
         'Aula Centro de Formación. (2022). <i>Gestión de Almacén y Logística.</i>',
       link:
         'https://dl.dropboxusercontent.com/scl/fi/ucro9rrtkrv682y7s1qt6/Curso-Gesti-n-de-Almanc-n-y-Log-stica-Aula-Centro-Formaci-n.pdf?rlkey=azxypu2r27s5m21odlj9ymwys&dl=0',
+    },
+    {
+      referencia:
+        'Mecalux. (2022). <i>Tecnologías para almacenes optimizados y eficientes.</i>',
+      link: 'https://www.mecalux.es/blog/tecnologias-para-almacenes',
+    },
+    {
+      referencia:
+        'Servicio Nacional de Aprendizaje (SENA). (2021). Zajuna Semilla. <i>121523_2_Virtual-Coordinación de procesos logísticos.</i>',
+      link: 'https://zajuna.sena.edu.co/zajuna/course/view.php?id=32450',
     },
   ],
   creditos: [
