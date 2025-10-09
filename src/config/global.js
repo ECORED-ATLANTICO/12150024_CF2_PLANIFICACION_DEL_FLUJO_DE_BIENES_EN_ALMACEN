@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Gestión operativa del flujo de bienes',
     Description:
-      'El componente formativo desarrolla competencias en manipulación, almacenamiento y distribución de mercancías, abarcando equipos especializados, organización de almacenes, así como técnicas de programación y cuantificación de recorridos, y planificación. Su objetivo es optimizar procesos logísticos, garantizando eficiencia, seguridad y reducción de costos en la cadena de suministro.',
+      'El componente formativo desarrolla competencias en manipulación, almacenamiento y distribución de mercancías, abarcando equipos de manipulación, organización de almacenes, así como técnicas de programación y cuantificación de recorridos, y planificación. Su objetivo es optimizar procesos logísticos, garantizando eficiencia, seguridad y reducción de costos en la cadena de suministro.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [

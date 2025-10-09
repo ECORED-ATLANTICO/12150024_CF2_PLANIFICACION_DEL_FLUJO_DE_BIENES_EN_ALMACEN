@@ -48,21 +48,9 @@
             .tarjeta--color-fondo-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
-                  .tarjeta--20
+                  .tarjeta--22
                 .tarjeta--slider__title.mb-3.text-center.fw-bold Minimizar costos operativos
                 .tarjeta--slider__content.text-center Reducir gastos en mano de obra, energía y almacenamiento mediante procesos eficientes.
-            .tarjeta--color-fondo-1.h-95
-              .row.justify-content-center.align-items-center.mb-0
-                .col-12.mb-3
-                  .tarjeta--21
-                .tarjeta--slider__title.mb-3.text-center.fw-bold Mejorar la precisión en inventarios
-                .tarjeta--slider__content.text-center Evitar pérdidas, roturas o caducidades mediante un control adecuado.
-            .tarjeta--color-fondo-1.h-95
-              .row.justify-content-center.align-items-center.mb-0
-                .col-12.mb-3
-                  .tarjeta--22
-                .tarjeta--slider__title.mb-3.text-center.fw-bold Garantizar la seguridad
-                .tarjeta--slider__content.text-center Cumplir con normativas de seguridad para trabajadores y productos.
             .tarjeta--color-fondo-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
@@ -128,7 +116,7 @@
                 td.text-start Almacenamiento compacto (<i>Drive-in</i>, <i>Push-back</i>)
                 td.text-start Para maximizar espacio en productos de baja rotación.
               tr
-                td(rowspan="6") <B>Métodos de almacenamiento</B>
+                td(rowspan="3") <B>Métodos de almacenamiento</B>
                 td.text-start Método ABC.
                 td.text-start Clasifica productos según su importancia (A: alto valor/rotación, B: medio, C: bajo).
               tr.bg-table-01
@@ -138,6 +126,7 @@
                 td.text-start Justo a tiempo.
                 td.text-start Reduce inventarios recibiendo productos solo cuando son necesarios.
               tr.bg-table-01
+                td(rowspan="3") <B>Gestión de rutas y <i>picking</i></B>
                 td.text-start <i>Picking</i> por zonas.
                 td.text-start Optimización de espacio y recursos.
               tr
@@ -236,7 +225,7 @@
           img(src='@/assets/curso/temas/tema_4/img_19.png', class="img-fluid")
       .col-12.col-lg-6.mb-lg-0.mb-3(data-aos="zoom-in-right")
         p.mb-3 La documentación en la gestión de almacenes es fundamental para garantizar el control, la trazabilidad y la eficiencia de las operaciones. 
-        p.mb-0 Los documentos en la planificación del almacén son permiten controlar, organizar y dar seguimiento a todas las operaciones relacionadas con la gestión de inventarios y el movimiento de mercancías, asegurando eficiencia, precisión y cumplimiento normativo. A continuación, presentan cada uno de los documentos clave utilizados en la planificación de almacén:
+        p.mb-0 Los documentos en la planificación del almacén nos permiten controlar, organizar y dar seguimiento a todas las operaciones relacionadas con la gestión de inventarios y el movimiento de mercancías, asegurando eficiencia, precisión y cumplimiento normativo. A continuación, presentan cada uno de los documentos clave utilizados en la planificación de almacén:
     
     .row.justify-content-center.align-items-center
       .col-12.col-lg-10

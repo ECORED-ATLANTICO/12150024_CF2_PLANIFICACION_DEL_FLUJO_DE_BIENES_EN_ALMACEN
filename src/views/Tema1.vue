@@ -42,8 +42,8 @@
           h5 Figura 1.
           span Factores clave en la manipulación de bienes
         figure(data-aos="zoom-in-right")
-          img(src='@/assets/curso/temas/tema_1/img_4.svg', class="img-fluid d-none d-lg-block mb-3" alt="En la figura 1 se ilustra el esquema de planificación de frecuencias y horarios, herramienta para lograr la precisión y optimizar viajes y entregas. Sus componentes son:· Utilización de la flota y la fuerza laboral. · Minimización de costos. · Satisfacción del cliente. · Sincronización de la cadena de suministro. · Gestión de la congestión.")
-          img(src='@/assets/curso/temas/tema_1/img_5.svg', class="img-fluid d-block d-lg-none mb-3" alt="En la figura 1 se ilustra el esquema de planificación de frecuencias y horarios, herramienta para lograr la precisión y optimizar viajes y entregas. Sus componentes son:· Utilización de la flota y la fuerza laboral. · Minimización de costos. · Satisfacción del cliente. · Sincronización de la cadena de suministro. · Gestión de la congestión.")
+          img(src='@/assets/curso/temas/tema_1/img_4.svg', class="img-fluid d-none d-lg-block mb-3" alt="La figura presenta cinco factores clave en la manipulación de bienes: garantizar la integridad de los productos, optimizar los tiempos operativos, reducir los costos logísticos, minimizar los riesgos laborales y cumplir con las normativas internacionales.")
+          img(src='@/assets/curso/temas/tema_1/img_5.svg', class="img-fluid d-block d-lg-none mb-3" alt="La figura presenta cinco factores clave en la manipulación de bienes: garantizar la integridad de los productos, optimizar los tiempos operativos, reducir los costos logísticos, minimizar los riesgos laborales y cumplir con las normativas internacionales.")
         figcaption(data-aos="zoom-in-right") 
           <b>Fuente:</b> SENA, 2025.
       .col-12.col-lg-10.mb-5
@@ -123,8 +123,8 @@
           h5 Figura 2.
           span Factores clave para la selección de equipos
         figure(data-aos="zoom-in-right")
-          img(src='@/assets/curso/temas/tema_1/img_12.svg', class="img-fluid d-none d-lg-block mb-3" alt="En la figura 1 se ilustra el esquema de planificación de frecuencias y horarios, herramienta para lograr la precisión y optimizar viajes y entregas. Sus componentes son:· Utilización de la flota y la fuerza laboral. · Minimización de costos. · Satisfacción del cliente. · Sincronización de la cadena de suministro. · Gestión de la congestión.")
-          img(src='@/assets/curso/temas/tema_1/img_13.svg', class="img-fluid d-block d-lg-none mb-3" alt="En la figura 1 se ilustra el esquema de planificación de frecuencias y horarios, herramienta para lograr la precisión y optimizar viajes y entregas. Sus componentes son:· Utilización de la flota y la fuerza laboral. · Minimización de costos. · Satisfacción del cliente. · Sincronización de la cadena de suministro. · Gestión de la congestión.")
+          img(src='@/assets/curso/temas/tema_1/img_12.svg', class="img-fluid d-none d-lg-block mb-3" alt="La figura muestra los principales factores a considerar en la selección de equipos: tipo de bien, peso o volumen, espacio disponible, ancho de pasillos, frecuencia de uso y horas de operación")
+          img(src='@/assets/curso/temas/tema_1/img_13.svg', class="img-fluid d-block d-lg-none mb-3" alt="La figura muestra los principales factores a considerar en la selección de equipos: tipo de bien, peso o volumen, espacio disponible, ancho de pasillos, frecuencia de uso y horas de operación")
         figcaption(data-aos="zoom-in-right") 
           <b>Fuente:</b> SENA, 2025.
     

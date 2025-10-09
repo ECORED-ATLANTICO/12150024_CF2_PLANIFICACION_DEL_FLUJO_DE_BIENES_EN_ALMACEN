@@ -131,7 +131,7 @@
               p.mb-2 <B>Cálculo:</B> 
               p.mb-2 <B>Ubicaciones:</B> A1(2,2), B1(8,2), C2(5,5), D3(2,8), E3(8,8)
               p.mb-2 <B>Ruta actual:</B> A1 → B1 → C2 → D3 → E3 (serpenteo)
-              p.mb-2 Distancia calculada con teorema de Pitágoras entre 
+              p.mb-2 Distancia calculada con teorema de Pitágoras entre puntos:
               p.mb-2 <B>A1-B1:</B> √[(8-2)² + (2-2)²] = 6 m
               p.mb-2 <B>B1-C2:</B> √[(5-8)² + (5-2)²] = 4.24 m
               p.mb-2 <B>C2-D3:</B> √[(2-5)² + (8-5)²] = 4.24 m
