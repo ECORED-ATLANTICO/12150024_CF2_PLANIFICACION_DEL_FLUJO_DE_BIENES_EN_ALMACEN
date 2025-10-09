@@ -207,7 +207,7 @@ export default {
       referencia:
         'Javier Peña. (2023). <i>8 consejos prácticos para Mejorar la operación del Almacén.</i> [Video]. YouTube.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=uQvCZG3n6-o',
+      link: 'https://www.youtube.com/watch?v=o7lnvuecRtI',
     },
     {
       tema: 'Planificación de almacén',
