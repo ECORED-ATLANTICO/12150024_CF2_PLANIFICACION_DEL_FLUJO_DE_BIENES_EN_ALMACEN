@@ -173,7 +173,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA2_12150024_DU.pdf',
+        download: 'downloads/Gestión_operativa_del_flujo_de_bienes.pdf',
       },
       {
         icono: 'fas fa-download',
