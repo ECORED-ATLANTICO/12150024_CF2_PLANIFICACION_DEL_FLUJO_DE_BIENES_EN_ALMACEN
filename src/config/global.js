@@ -318,7 +318,7 @@ export default {
     {
       referencia:
         'Servicio Nacional de Aprendizaje (SENA). (2021). Zajuna Semilla. <i>121523_2_Virtual-Coordinación de procesos logísticos.</i>',
-      link: 'https://zajuna.sena.edu.co/zajuna/course/view.php?id=32450',
+      link: '',
     },
   ],
   creditos: [
